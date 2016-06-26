@@ -1,0 +1,23 @@
+Title: About
+Status: published
+
+This site aims to be an exhaustive reference on the music of Joanna Newsom.
+
+# Content #
+
+* *About the album articles*:
+    these articles aim to draw together quotes from interviews and information from liner notes. They might help the reader come across novel interviews, or just learn a bit more about the album than you can find elsewhere on the internet. Some of the articles might make it to Wikipedia later on.
+
+* *About the annotations*:
+    the interpretation of song lyrics can range from looking up words in a dictionary to inferring minor themes of the song that are based on both the lyrics and the opinion of the interpreter. My notes aim for the middle of this range; that is, context for the lyrics that is harder to discover than word definitions but is still as objective as possible.
+
+# Contact the author #
+
+Email: <thenightjar@bar.com>
+
+# Colophon #
+
+The site is written in Markdown for Python and is generated using Pelican. The theme is based on Bootstrap. The site is hosted on GitHub Pages. The source can be found at TODO. All original work is licensed under a [Creative Commons Public Domain (CC0) licence][].
+
+[Creative Commons Public Domain (CC0) licence]: https://creativecommons.org/publicdomain/zero/1.0/ "Public Domain license"
+

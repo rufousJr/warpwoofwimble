@@ -1,0 +1,79 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*- #
+from __future__ import unicode_literals
+
+# Theme
+THEME = 'voidy-bootstrap'
+#SIDEBAR = 'sidebar.html'
+#SIDEBAR_HIDE_TAGS = True	#NB the default Voidy implementation
+							# requires the tag_cloud plugin
+#SIDEBAR_HIDE_CATEGORIES = True
+CUSTOM_FOOTER = 'footer.html'
+
+
+# Info
+AUTHOR = 'Rufous Nightjar'
+SITENAME = 'The Draft Joanna Newsom Fansite'
+SITESUBTITLE = 'A Joanna Newsom Fansite'
+SITETAG = 'the site tag'
+SITEURL = ''
+DEFAULT_DATE = 'fs'
+DEFAULT_METADATA = {'status':'hidden','release':'other'}
+
+PATH = 'content'
+
+TIMEZONE = 'Europe/London'
+
+DEFAULT_LANG = 'en'
+
+# Extra stylesheets, for bootstrap overrides or additional styling.
+STYLESHEET_FILES = ("pygment.css", "voidybootstrap.css",)
+BOOTSTRAP_STYLESHEET = "bootstrap-darkly.css"
+
+# Feed generation is usually not desired when developing
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
+
+# Blogroll
+LINKS = (
+            ('Joanna Newsom lyrics',
+             'http://joannanewsomlyrics.com/'),
+            ('Milky Moon forums',
+             'http://www.fromamouth.com/milkymoon/'),
+            ('Facebook group',
+             'https://www.facebook.com/groups/JoannaNewsomUnofficial/'),
+            ('My Pinboard account',
+             'https://pinboard.in/u:rufousii/bundle:joanna-newsom/'),
+            ('Blessing All the Birds Tumblr',
+             'http://allthebirds.tumblr.com')
+        )
+
+# Social widget
+SOCIAL = (('You can add links in your config file', '#'),
+         ('Another social link', '#'),)
+
+DEFAULT_PAGINATION = 10
+
+# URL schema
+PAGE_URL = '{release}/{slug}.html' # at some point I should fix this so that 'release' is a pretty string that can be slugified. then I can generate menus, subtitles etc more easily. NB FOR NOW, 'release' MUST RESEMBLE A SLUGFIED STRING FOR THE PURPOSE OF FORWARD COMPATIBILITY
+PAGE_SAVE_AS = PAGE_URL
+INDEX_SAVE_AS = 'blog_index.html'
+
+#favicon stuff
+CUSTOM_HTML_HEAD = 'header_favicon.html'
+#STATIC_PATHS = ['favicons']
+#EXTRA_PATH_METADATA = {
+#	'favicons' : {
+#		'path':'gra'
+#		}
+#	}
+#can't see how this would work without listing all the favi files, so I'm just copying them to 'output' manually for now
+
+# Uncomment following line if you want document-relative URLs when developing
+#RELATIVE_URLS = True
+
+#Extensions
+MD_EXTENSIONS = ['smarty','toc','extra']

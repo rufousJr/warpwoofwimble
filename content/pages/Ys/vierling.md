@@ -1,0 +1,30 @@
+Title: Interview with Benjamin Vierling
+Status: hidden
+
+*This is a copy of a piece hosted on the old Milky Moon forums. It is still recoverable on archive.org, at [this URL][mm-vierling].*
+
+***
+
+Joanna and I have been acquainted for a number of years and thus we were both familiar with one another's work long before discussing the possibility of an album cover. I found the prospect of painting her portrait very compelling because she is an ideal subject; her enchanting presence is radiant and simply demands to be painted!  I'm further inspired by the tenacious dedication that Joanna applies to her creative ideals, and through her songs, she takes the listener on a kind of journey, from the depths to the heights... Not being in any way a musician myself, I can only observe this kind of magic with awe and do my best to translate my impressions into images. My ambition with this portrait was not only to depict her physical Being, but also to render the great current of feeling that swells in her music. Indeed, the two are inseparable.
+
+Also, despite the fact that a painting is a static image, my hope was that I could somehow compel the viewer to embark on the journey which is facilitated by the music.
+
+We worked together to arrange the composition of the painting, and her input was indispensable. I would have been unable to evoke such subtle complexity without her influence. She brought a lot of thematic influence to the image, and through her enthusiasm I felt compelled to challenge my abilities as a painter. To identify the symbolic meaning behind the imagery, one would have to ask Joanna herself. My goal as a painter is to invoke the spirit of a Thing --- be it an object an animal or a human --- through my rendering of it, and thus I am not a 'Symbolist' in the literal sense because I believe that the image should speak for itself. Any and all secrets are there for the finding. One need only to look to discover...
+
+***
+
+The technique that I used for this painting is derived from methods used in northern europe during the 15th and early 16th centuries, in which egg tempera and oil paint mediums are alternately layered, conspiring to produce a subtle radiance of tone that is difficult to create any other way. This technique is exemplified in the works of the Flemish and Northern German masters, specifically Memling, Van Eyck, Van der Wyden and later Dürer, Holbein etc... although, I wish to stress that it's not neccesarily my intention to emulate the style of that epoch, the aesthetic of my work being more directly related to certain schools of 19th century painting, especially the Nazarenes in Germany, and the late romantics. My methods are derivative as opposed to actual emulation.
+
+In any event, the technique is time consuming because one must accommodate for drying time between glazes. Because of this  I allocated over 6 months to bring the work to completion, but as stated the luminosity that one can achieve is without rival. Its difficult to get the total impression of this effect through a reproduction, and the original work needs to be seen in order to fully appreciate these subtle qualities, but the ultimate effect of the image is nevertheless a result of this mixed technique. It is especially useful in the rendering of fine detail. I can't imagine having done the portrait of Joanna in any other way, and my hope is that it compliments the rich complexities of the recording. I have only been using this technique for a few years, and I am by no means a master at it, but most of the work I have done during this time has been in this style, utilizing these methods. All of the egg-tempera is mixed in the studio from raw materials (eggs!) and with ground pigment. I am not such a purist that I ground my own pigments, but as I refine my methods I may eventually move in that direction. In some of my other works I also utilize more conventional oil painting methods, watercolors, pen and ink, gouache and even acrylic paints.
+
+***
+
+I would like to stress that I do not follow the kind of rigid procedures that one might study in a classical painting class. I'm afraid that my creative methodology is much too eclectic to truly be able to call myself a traditionalist, but I do distill much of my aesthetic inspiration from the past; from the asceticism of the late middle ages to the repressed decadence of the 19th century. From the excesses of baroque sculpture to the elegant minimalism of japanese woodblock prints. The goal is obviously to reinterpret these techniques to make them relevant for our time. I certainly can't speak for Joanna, but my impression of her is that she is also very innovative in her use of traditional methods to fuel her uniquely contemporary music.
+
+The original painting is just shy of life-size, measuring 28" x 34" (71 x 86 centimeters). Rich and Andy Good of The Indiana Experiment did the graphic design and layout for the album. In my opinion they did a remarkable job of presenting my painting, and of anchoring the aesthetic of the album.
+
+At this point there are no specific plans to do additional artwork for singles etc... although certainly anything is possible. I currently have a number of personal projects and private commissions that I am working on, some of which may eventually be viewed on-line. My web-site is actually in the process of being renovated, the current pages being woefully out of date! The new presentation will feature much of the work I have been doing the past few years, including the portrait of Joanna. A limited edition of archival quality prints of the painting will also be available through my web-site --- sometime after the album is released in November.
+
+It was a great honor for me to be a part of this project, as it incorporates the efforts of so many talented and outstanding people. Joanna has woven a truly enchanting spell. My hope is that my visual contribution assists in lettings ones imagination be lured into the realms conjured by the music.
+
+[mm-vierling]: http://web.archive.org/web/20070629202800/http://www.fromamouth.com/milkymoon/specials/ysart/

@@ -45,3 +45,17 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# My additions
+# ============
+
+*.*.pyc
+*.pyc
+__pycache__/
+*.bat
+
+# Pelican detritus
+/pelican.pid
+/srv.pid
+/output/
+/output-publish/
