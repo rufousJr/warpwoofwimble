@@ -1,5 +1,6 @@
 Title: Warp-Woof-Wimble is launched (in flight)
 Authors: Rufous Nightjar
+Date: 2016-06-24
 Status: published
 
 And... here we go! The site is very much in a draft stage, and I welcome corrections and additions. Comments are turned on below blog posts for now, and my email address is in the sidebar. Please bear with me if *I'm* offline for weeks at a time over the next few months.
