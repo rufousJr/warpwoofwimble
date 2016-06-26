@@ -61,7 +61,7 @@ In Guardian piece examining the extent to which modern songwriters are inspired 
 
 > I filched ... characters that in my head had life to them, were so finely drawn that they became archetypal: Jason Compson in *The Sound and the Fury*, running with his hands in his pockets, foreshadowing greed and repression - he became a touchstone ... .[^guardianp]
 
-[Guardian, October 2006][guardianp]
+[^guardianp]:[Guardian, October 2006][guardianp]
 
 !!! lyrics ""
 	> When the bough breaks, what'll you make for me?  
