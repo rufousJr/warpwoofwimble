@@ -19,7 +19,7 @@ According to Harp magazine, "for the song "Only Skin," [Newsom] told [Parks] she
 	> while yarrow, heather and hollyhock  
 	> awkwardly molt along the shore.
 	
-The habitats of these three flowering plants are not primarily littoral.
+The habitats of these three flowering plants are not usually littoral.
 
 ## Idiom ##
 
@@ -48,7 +48,7 @@ Sisyphus is a character in Greek mythology condemned by the gods to futile labou
 	> heavy and hollow,  
 	> hit by a brown bird.
 	
-The image of a bird killed by collision with a window is reminiscent of the opening of the poem of *Pale Fire* by Vladimir Nabokov: "I was the shadow of the waxwing slain/ By the false azure in the windowpane;/ I was the smudge of ashen fluff --- and I/ Lived on, flew on, in the reflected sky."
+The image of a bird, here a finch, killed by collision with a window is reminiscent of the opening of the poem of *Pale Fire* by Vladimir Nabokov: "I was the shadow of the waxwing slain/ By the false azure in the windowpane;/ I was the smudge of ashen fluff --- and I/ Lived on, flew on, in the reflected sky."
 (Two more parts of the song echo, to my ear, lines from the final canto of *Pale Fire*: the "dark dream" described at the start of the lyrics calls to mind the awakening from a dreamed sleepwalk relayed in lines 873--886; and lines 970--984 touch the themes of "Emily" and, indeed, the biographical nature of *Ys* overall --- with "I can't with certainty say we survived" echoing the couplet "I'm reasonably sure that we survive/And that my darling somewhere is alive".)
 
 !!! lyrics ""

@@ -28,6 +28,6 @@ This might well be a borrowing of the proverb from Zen Buddhism, "chop wood, car
 	> And it tolls --- well, I believe that it tolls --- for me.  
 	> It tolls for me.
 	
-This is likely inspired by the celebrated sermon by John Donne in *Devotions Upon Emergent Occasions*. It is put into excellent content in his [Poetry Foundation biography](http://www.poetryfoundation.org/poems-and-poets/poets/detail/john-donne). The sermon inspired the title of a novel, *For Whom the Bell Tolls*, by Newsom favourite Ernest Hemingway.
+This is likely inspired by the celebrated sermon by John Donne (1572--1631) in *Devotions Upon Emergent Occasions*, in part of which he describes his feelings upon hearing funeral bells from his sickbed. It is put into excellent content in his [Poetry Foundation biography](http://www.poetryfoundation.org/poems-and-poets/poets/detail/john-donne). The sermon inspired the title of a novel, *For Whom the Bell Tolls*, by Newsom favourite Ernest Hemingway (1899--1961).
 
 [ebe]: http://www.eastbayexpress.com/oakland/outer-child/Content?oid=1069605&showFullText=true

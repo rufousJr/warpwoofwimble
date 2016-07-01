@@ -28,7 +28,7 @@ The given name 'Ursula' comes as the diminutive of the Latin *ursa*, or she-bear
 	> bear shed the mantle of her  
 	> diluvian shoulders
 	
-The phrase "a land of milk and honey" comes from the book of Exodus (33:3), as a description of the Promised Land of the Israelites. The word 'diluvian' is sometimes used as an adjectival form of the Great Flood, described in Genesis 7--8.
+The phrase "a land of milk and honey" comes from *Exodus 33:3*, as a description of the Promised Land of the Israelites. The word 'diluvian' is sometimes used as an adjectival form of the Great Flood, described in *Genesis 7--8*.
 
 ## Idiom ##
 

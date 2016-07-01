@@ -7,7 +7,7 @@ Release: Divers
 	> Short flight; free descent.  
 	> Poor flight attendant.
 
-These first few stanzas evoke the inadvertent dive of an air hostess described in [James L. Dickey](http://www.poetryfoundation.org/poems-and-poets/poets/detail/james-l-dickey)'s poem, "Falling". The epigraph to the poem quotes a 1962 New York Times article, "A 29-year-old stewardess fell ... to her death tonight when she was swept through an emergency door that suddenly sprang open ... The body ... was found ... three hours after the accident." Her fate echoes that of John Purroy Mitchel some 44 years earlier (see [Sapokanikan]({filename}sapokanikan.md)).
+These first few stanzas evoke the inadvertent dive of an air hostess described in the [James Dickey](http://www.poetryfoundation.org/poems-and-poets/poets/detail/james-l-dickey) (1923--1997)  poem, "Falling". The epigraph to the poem quotes a 1962 New York Times article, "A 29-year-old stewardess fell ... to her death tonight when she was swept through an emergency door that suddenly sprang open ... The body ... was found ... three hours after the accident." Her fate echoes that of John Purroy Mitchel some 44 years earlier (see [Sapokanikan]({filename}sapokanikan.md)).
 
 !!! lyrics ""
 	> from the Great Light that shines through a pin-hole,  

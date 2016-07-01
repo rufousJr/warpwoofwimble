@@ -18,5 +18,5 @@ Email: <thenightjarkid@gmail.com>
 
 # Colophon #
 
-This site is generated using [Pelican](http://docs.getpelican.com/). The theme is based on [Bootstrap](http://getbootstrap.com/). The site is hosted on [GitHub Pages](https://pages.github.com/) and [its source](https://github.com/rufousJr/warpwoofwimble) is on Github too. All original work is licensed under a [Creative Commons Public Domain (CC0) licence](https://creativecommons.org/publicdomain/zero/1.0/).
+This site is generated using [Pelican](http://docs.getpelican.com/). The theme is based on [Bootstrap](http://getbootstrap.com/). The site is hosted on [GitHub Pages](https://pages.github.com/) and [its source](https://github.com/rufousJr/warpwoofwimble) is on Github too. All original work is licensed under a [Creative Commons Public Domain (CC0) licence](https://creativecommons.org/publicdomain/zero/1.0/). (Though a hat-tip is always appreciated.)
 

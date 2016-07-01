@@ -24,7 +24,7 @@ Newsom apologises to several of the referenced people "for liberties taken" in t
 
 ## Ozymandias ##
 
-The lyrics contain numerous words and phrases taken from the well-known poem *Ozymandias* by Percy Byshe Shelley, as well as its contemporary, but lesser-known namesake by Horace Smith. The connection was explained by Newsom as follows:
+The lyrics contain numerous words and phrases taken from the well-known poem *Ozymandias* by Percy Bysshe Shelley (1792--1822), as well as its contemporary, but lesser-known namesake by Horace Smith (1779--1849). The connection was explained by Newsom as follows:
 
 > I had never known about the second 'Ozymandias' poem, the Horace Smith poem. The Horace Smith one is essentially the same and maybe better, but the Shelley one became part of the popular consciousness. If you say 'Ozymandias', it's shorthand for an idea, and people who aren't English scholars or even poetry fans know about it. Within that context, the Horace Smith 'Ozymandias' is just lost, and I was thinking about the phenomenon of one of those poems becoming what it describes. It doesn't just describe the poem, it describes the process of the rendering of obsolescence. I think any record, any remnant is inherently cryptic. We're just seeing the elements of any institution or phenomenon or person or event that endure, and those elements are in many cases the result of bias, in many cases the result of arbitrariness, randomness, in many cases the result of acts of God, as it were. We're never experiencing anything as real, we're experiencing a distorted, adulterated, or aggrandised, or lionised, or different version of the past. It was a really exciting idea for me.[^uncut]
 
