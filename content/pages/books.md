@@ -43,7 +43,12 @@ This is a list of features that aren't available online as native content.
  * Q Magazine Q353, December 2015
  * Bad Day Magazine #20, June 2016
  
+## Features ##
+
+ * Spin, June 2004 (Dave Eggers)[^spin]
+ 
 [^planb]: the entire run of Plan B was distributed online by Everett True, one of the editors, some years after the magazine closed down, so I figure hosting this here is okay
+[^spin]: [available on Google Books](https://books.google.co.uk/books?id=UAUQ04BGfpUC&lpg=PA60&ots=c2Zx8h9atL&dq=spin%20newsom%20eggers&pg=PA60#v=onepage&q&f=false) at time of writing (July '16)
 
 
 
