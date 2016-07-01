@@ -73,7 +73,7 @@ The Ladle, also called variously the Big Dipper, the Plough, and, properly, Ursa
 	
 One could argue that these definitions are muddled. Though a meteor is undoubtedly the "perceived" phenomenon often called a shooting star, the meteor*oid* is the debris that "causes the light", which might well burn up before its "bone" is "thrown from the void" into a museum to be labelled as a meteor*ite*.
 
-## Religion ##
+## Christianity and the Creation ##
 
 !!! lyrics ""
 	> There is a rusty light on the pines tonight;  
@@ -85,9 +85,11 @@ One could argue that these definitions are muddled. Though a meteor is undoubted
 	> Told: take this.  
 	> Eat this.
 	
-There are many spiritual turns of phrase in the song, and some Christian imagery. The Pharisees, important figures of Judeo-Christian history, and pharoahs, characters in texts of the Abhramic religions, make appearances in the first verse, and, in the quoted lines, the allusion is to the (Christian) sacrament of the Eucharist. In the middle of the song, the tugboats, dividing the waters, play the role of the Firmament from the story of the Creation (Genesis 1:6).
+There are many spiritual turns of phrase in the song, and some Christian imagery. The Pharisees, important figures of Judeo-Christian history, and the songbird-hunting pharoahs, characters in texts of the Abhramic religions, make appearances in the first verse, and, in the quoted lines, the allusion is to the (Christian) sacrament of the Eucharist.
 
-## Literary borrowing ##
+There are two possible allusions to the story of the Creation: in the middle of the song, the tugboats, dividing the waters, play the role of the Firmament (*Genesis 1:6--8*); and the category "everything with wings" recalls the very general selection of creatures described in *Genesis 1:20--23*.
+
+## The influence of Nabokov ##
 
 !!! lyrics ""
 	> My clay-colored motherlessness rangily reclines ---  
@@ -97,7 +99,9 @@ In Guardian piece examining the extent to which modern songwriters are inspired 
 
 > I filched ... characters that in my head had life to them, were so finely drawn that they became archetypal: ... in the song Emily there's a reference to Lolita. Not directly to the character but to the heavy, languorous energy, that listlessness and decadence, the rangy long limbs of her adolescence. He's giving her candy and fancy dresses to fill the hole he's creating in her heart.[^guardianp]
 
-[Guardian, October 2006][guardianp]
+Indeed, the language of these lines is reminiscent of *Lolita*: for example, the word "motherlessness" --- which I for one rarely see used! --- occurs near the start of the book, where the narrator uses it to describe his own situation of having a dead mother. And several puns on the given name of the eponymous character (Dolores), such as "dolorous", occur throughout.
+
+[^guardianp]: [Guardian, October 2006][guardianp]
 
 [stompstammer]: https://web.archive.org/web/20061112125557/http://www.stompandstammer.com/index.php?option=com_content&task=view&id=669&Itemid=1
 [pitchfork]: http://pitchfork.com/features/interview/6488-joanna-newsom/
