@@ -1,6 +1,7 @@
 Title: Only Skin
 Release: Ys
 
+An exceptionally long song, with a decidedly non-linear narrative, "Only Skin" is perhaps a favourite for analysis among many fans. It has also been studied in academia (see this site's [Books page]({filename}../books.md)).
 
 > **Most revealing, perhaps, is Newsom's admission that the last few verses of the song --- where the long-suffering female protagonist promises to do right by her darling -- are the only place in the whole album where she just made stuff up, where the song steps away from poetic autobiography.**
 

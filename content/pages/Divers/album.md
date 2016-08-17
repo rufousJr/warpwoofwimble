@@ -25,6 +25,7 @@ Song annotations:
 
 Newsom took a much larger role in the production of this album, the first for which she was involved in the mixing. The mixing took six months, and the album was mastered eleven times.[^rookie] "I had a really strong opinion about every note, every beat, every word."[^latimes] Several of the production team and musicans on the record have been credited on other Newsom albums too. Newsom mentions the recording process in a Guardian interview,[^guardian] and it is covered in great depth in an interview with Stereophile entitled [Joanna Newsom, Kingdom of the Harp][stereophile].
 
+Though the album features an eclectic mix of instruments, the only voices on the album are those of birds and of Newsom. This latter was often duplicated to make a "chorus of Joanna Newsoms". According to Newsom, this "was a choice for this record. ...In 'Waltz of the 101st Lightborne',... that's sort of the horror/sci-fi version of doubling and there's constant references to the doubling of the self and the halving of the self, the binary of the self throughout the record... ."[^paste]
 
 [^rookie]:[Rookie Magazine, issue 50 (2015)][rookie]
 [^latimes]:[LA Times, October 2015][latimes]
