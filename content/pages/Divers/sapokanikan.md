@@ -51,7 +51,13 @@ Firstly, 'Sapokanikan' was a Lenape Indian name for a settlement located in the 
 	> (and the Cause that they died for)  
 	> are lost in the idling birdcalls,
 	
-The land now called Washington Square Park 'originated' as a potter's field and public execution grounds in 1797. Later, it was a parade ground, before being designated a public park in 1827. A marble arch honouring the centennial of George Washington's inauguration was erected by 1892. The inscription on the arch is referenced in the lyrics to this song, and reads, "LET US RAISE A STANDARD TO WHICH THE WISE AND HONEST CAN REPAIR / THE EVENT IS IN THE HAND OF GOD / --WASHINGTON".
+The land now called Washington Square Park 'originated' as a potter's field and public execution grounds in 1797. Later, it was a parade ground, before being designated a public park in 1827. A marble arch honouring the centennial of George Washington's inauguration was erected by 1892. The inscription on the arch is referenced in the lyrics to this song, and reads, "LET US RAISE A STANDARD TO WHICH THE WISE AND HONEST CAN REPAIR / THE EVENT IS IN THE HAND OF GOD / --WASHINGTON".[^washington]
+
+A few blocks away, in McCarthy Square, stands a monument erected in honour of  Private First Class Bernard James McCarthy, the first Greenwich Village resident to fall in the Second World War. It is dedicated to the "BRAVE MEN, WOMEN AND WORTHY PATRIOTS DEAR TO GOD AND FAMOUS TO ALL AGES".[^mccarthy]
+
+[^washington]: [Washington Square Park, NYC Dept. of Parks and Recreation][washington]
+[^mccarthy]: [McCarthy Square, NYC Dept. of Parks and Recreation][mccarthy]
+
 
 ## John Purroy Mitchel ##
 
@@ -93,5 +99,7 @@ In the process of writing the above annotations, I came across two pieces that m
 [stranger]: http://www.thestranger.com/slog/2016/03/23/23844024/joanna-newsom-the-stranger-interview
 [culturedarm]: http://culturedarm.com/themes-and-references-in-joanna-newsoms-sapokanikan/
 [tesserae]: https://medium.com/@hexagn/the-text-will-not-yield-6872a6894ab3
+[mccarthy]: https://www.nycgovparks.org/parks/mccarthy-square/history
+[washington]: https://www.nycgovparks.org/parks/washington-square-park/history
 
 

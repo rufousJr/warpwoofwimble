@@ -1,13 +1,14 @@
 Title: Only Skin
 Release: Ys
 
+
 > **Most revealing, perhaps, is Newsom's admission that the last few verses of the song --- where the long-suffering female protagonist promises to do right by her darling -- are the only place in the whole album where she just made stuff up, where the song steps away from poetic autobiography.**
 
 >I was hoping for a good resolution, but I felt helpless and foundering at the end. And so I reached for this fiction, because I didn't know how to end the song in full truth. Otherwise, it would go on forever.[^arthur]
 
 [^arthur]:[Arthur Magazine, Winter 2006][arthur]
 
-According to Harp magazine, "for the song "Only Skin," [Newsom] told [Parks] she wanted to hear 'an elephant marching down the street really heavily (and) there was maybe a bird darting around its head and it was distracted by that.' How did that sound musically? Parks had to figure that out."[^harp]
+According to Harp magazine, "for [this song], [Newsom] told [Parks] she wanted to hear 'an elephant marching down the street really heavily (and) there was maybe a bird darting around its head and it was distracted by that.' How did that sound musically? Parks had to figure that out."[^harp]
 
 [^harp]:Harp Magazine, December 2006
 
