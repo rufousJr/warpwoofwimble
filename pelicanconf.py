@@ -25,7 +25,6 @@ CUSTOM_HTML_HEAD = 'header_favicon.html'
 CUSTOM_FOOTER = 'footer.html'
 #STYLESHEET_FILES = ('voidybootstrap.css')
 BOOTSTRAP_STYLESHEET = 'bootstrap.min.css'
-CUSTOM_CONTENT_TOP_INDEX = 'welcome.html'
 DEFAULT_PAGINATION = 5
 
 

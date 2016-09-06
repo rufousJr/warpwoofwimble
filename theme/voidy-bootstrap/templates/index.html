@@ -26,7 +26,7 @@
 {% block article %}
 {% if articles %}
   {% for article in (articles_page.object_list if articles_page else articles) %}
-    <article>
+    <article class="panel-body">
       {% for file in CUSTOM_INDEX_ARTICLE_HEADERS %}
         {% include "includes/" + file %}
       {% else %}

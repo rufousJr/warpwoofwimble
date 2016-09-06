@@ -1,11 +1,13 @@
 	<div class="jumbotron" id="overview">
-	  <div class="container">
+	  <div class="container hidden-xs">
+		<a href="{{ SITEURL }}/" rel="home">
 	    <img style = "max-height: 150px;" src="{{ SITE_URL }}/{{ LOGO_PATH }}">
+		</a>
 	  </div>
 	  <div class="container">
-		<h1 style="font-family:monospace; text-align:center; color:#ddbb57">{{ SITENAME }}</h1>
+		<h1 id="site-title">{{ SITENAME }}</h1>
         {% if SITESUBTITLE %}
-		<p class="lead" style="font-family:monospace; text-align:center; color:#fff2da;">{{ SITESUBTITLE }}</p>
+		<p class="lead" id="site-subtitle">{{ SITESUBTITLE }}</p>
         {% endif %}
 	  </div>
 	</div>

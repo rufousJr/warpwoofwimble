@@ -11,24 +11,52 @@
 
 // CUSTOM =====================================================================
 
-/*.lyrics blockquote {
-    .blockquote;
+#overview {
+    background: @gray-darker;
+    text-align: center;
+}
+
+#site-title {
     color: @brand-warning;
-}*/
+    font-family: monospace;
+}
 
-.lyrics blockquote {
+#site-subtitle {
+    color: @headings-color;
+    font-family: monospace;
+}
+
+#content {
+    .panel;
+    background: @gray-darker;
+
+    header {
+        .panel-heading;
+        border-color: @headings-color;
+    }
+
+    .content-body, .footnote {
+        .panel-body;
+    }
+
+    hr {
+        margin: 3% 25% 3% 25%;
+    }
+    
+    .footnote hr {
+        margin: auto;
+    }
+}
+
+blockquote {
+    .lyrics {
     border-color: @brand-warning;
-}
+    }
 
-.epigraph blockquote {
+    .epigraph {
     border-color: @brand-danger;
+    }
 }
-
-/*header {
-    border-style: double;
-    border-color: hotpink;
-    border-width: thick;
-}*/
 
 // Navbar =====================================================================
 
