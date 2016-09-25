@@ -92,7 +92,7 @@ The zooming-out from Earth conjured at the end of "My Heart Alive" (and the begi
 
 This flight fulfills at last the desire, first expressed in "Anecdotes", to go "where where the dew won't dry / [...] where the light won't bend." She is at lofty heights, in the perfect place for the philosophising heard throughout the final two tracks. Like Mitchell says in her concluding song: "And it made most people nervous / They just didn't want to know / What I was seeing in the refuge of the roads."[^8]
 
-And like that, I think we see clearly how beautifully the themes of each song on *Divers* dovetail. Look at the questions posed in "The Things I Say": "What happened to the man you were[...]? Did he die, or does that man endure, somewhere far away?" By the ending of the album, Newsom is that man: as flight attendant, she plunges to her death; yet she stands brave, and holds on through *Divers*' freewheeling conclusion, until the cycle begins again.
+And like that, I think we see clearly how beautifully the themes of each song on *Divers* dovetail. Look at the questions posed in "The Things I Say": "What happened to the man you were[...]? Did he die, or does that man endure, somewhere far away?" By the ending of the album, Newsom is that man: as flight attendant, she plunges to her death; yet she stands brave, and holds on through *Divers*' freewheeling finale, until the cycle begins again.
 
 
 [batb]: http://allthebirds.tumblr.com/post/149510193303/delving-into-divers-the-title-song
