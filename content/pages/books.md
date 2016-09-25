@@ -46,6 +46,7 @@ This is a list of features that are paywalled or otherwise unavailable online.
  * Time, March 2010
  * Uncut Magazine, November 2015
  * Q Magazine Q353, December 2015
+ * Les Inrockuptibles, November 2015
  * Bad Day Magazine #20, June 2016
  
 ## Features ##

@@ -11,7 +11,13 @@ In ["Sapokanikan"][], the blood has already been spilled. In the guise of omnisc
 
 ["Anecdotes"][] gets us closer to violence with its recollection of battles past. Trenches, night raids, and "sending the first scouts over [the top]" all bring to mind the conflict on the Western Front. Supporting this story is a military cast; the narrator is perhaps an officer sharing a joke with his deputy, Nightjar, in the silent moon-light. He, our officer, makes poetry of what he sees, preserving in song an anecdote from his time "down in the trenches"; in contrast to the official records examined in "Sapokanikan", "Anecdotes" is, like something written by Wilfred Owen or Siegfried Sassoon, as much a work of art as a battle diary.
 
-To the themes of the song, I find a poem by Great War veteran Ivor Gurney particularly fitting. In ["After-Glow"][], he recalls a time when, in the nocturnal silence of the trenches, "Time passed from my mind. Time died; and then we were / Once more at home together, you and I." Like "Anecdotes", the poem begins in the front-line, passing through a period of reminiscence before ending in a domestic scene. (The poem also has an aspect of rusted monument, being dedicated to Gurney's friend and fellow-soldier F. W. Harvey, at the time feared dead.)
+To the themes of the song, I find a poem by Great War veteran Ivor Gurney particularly fitting. In ["After-Glow"][], he recalls a time when, in the nocturnal silence of the trenches,
+
+!! lyrics ""
+	> Time passed from mind. Time died; and then we were  
+	> Once more at home together, you and I.
+	
+Like "Anecdotes", the poem begins in the front-line, passing through a period of reminiscence before ending in a domestic scene. (The poem also has an aspect of rusted monument, being dedicated to Gurney's friend and fellow-soldier F. W. Harvey, at the time feared dead.)
 
 On the other hand, "Anecdotes" is more allegorical than "After-Glow". Obviously, the former was written by Newsom --- herself no veteran --- and at times it verges on science-fiction. Time stops like it did for Gurney, but ideas of time-travel ("temporal infidelity") and the bending of light link the song with Albert Einstein's theories of relativity and those theories' employment in the plots of many a sci-fi novel. Consider the soldiers of "Anecdotes": a cavalry of nightjar-oids? That would follow the tradition of sci-fi writers who take their cues from nature gone grotesque --- its pages are filled with hive-minded ants the size of cars, chameleons that change form as well as colour, and mechanical men with twice our strength and half our compassion. Like the politically charged poems of the war poets, this is something other than a sober history.
 

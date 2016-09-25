@@ -1,6 +1,13 @@
 Title: Time, As a Symptom
 Release: Divers
 
+!!! "" epigraph
+	> So the last will be first,
+	> and the first last.
+	> For many are called,
+	> but few chosen.
+	> <footer>Matthew 20:16 (The Parable of the Workers in the Vineyard)</footer>
+
 # Annotations #
 
 ## Bird calls ##
@@ -17,4 +24,4 @@ This line is an excerpt from the novel *Finnegans Wake* by James Joyce. Specific
 !!! lyrics ""
 	> (Areion, Rharian, go free and graze. Amen.)
 
-Th names Areion and Rharian are taken from Gree<i>k myth</i>ology. The Rharian fields are associated with the gift of agriculture, given to humanity by the goddess Demeter, whose horse-son is named Areion. User ~Jordan on the Milky Moon forums gave an excellent [explanation and analysis](http://www.fromamouth.com/milkymoon/viewtopic.php?f=23&t=1424) of this part.
+Th names Areion and Rharian are taken from Greek mythology. The Rharian fields are associated with the gift of agriculture, given to humanity by the goddess Demeter, whose horse-son is named Areion. User ~Jordan on the Milky Moon forums gave an excellent [explanation and analysis](http://www.fromamouth.com/milkymoon/viewtopic.php?f=23&t=1424) of this part.

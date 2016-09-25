@@ -6986,11 +6986,138 @@ button.close {
 #content .footnote hr {
   margin: auto;
 }
-blockquote .lyrics {
-  border-color: #ddbb57;
-}
-blockquote .epigraph {
+.lyrics blockquote {
   border-color: #841c23;
+}
+.epigraph blockquote {
+  border-color: #841c23;
+  /*border-color: @brand-warning;*/
+}
+table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 21px;
+  overflow-x: auto;
+  min-height: 0.01%;
+}
+table > thead > tr > th,
+table > tbody > tr > th,
+table > tfoot > tr > th,
+table > thead > tr > td,
+table > tbody > tr > td,
+table > tfoot > tr > td {
+  padding: 8px;
+  line-height: 1.42857143;
+  vertical-align: top;
+  border-top: 1px solid #68695d;
+}
+table > thead > tr > th {
+  vertical-align: bottom;
+  border-bottom: 2px solid #68695d;
+}
+table > caption + thead > tr:first-child > th,
+table > colgroup + thead > tr:first-child > th,
+table > thead:first-child > tr:first-child > th,
+table > caption + thead > tr:first-child > td,
+table > colgroup + thead > tr:first-child > td,
+table > thead:first-child > tr:first-child > td {
+  border-top: 0;
+}
+table > tbody + tbody {
+  border-top: 2px solid #68695d;
+}
+table .table {
+  background-color: #484940;
+}
+table a:not(.btn) {
+  text-decoration: underline;
+}
+table .dropdown-menu a {
+  text-decoration: none;
+}
+table .success,
+table .warning,
+table .danger,
+table .info {
+  color: #fff;
+}
+table .success > th > a,
+table .warning > th > a,
+table .danger > th > a,
+table .info > th > a,
+table .success > td > a,
+table .warning > td > a,
+table .danger > td > a,
+table .info > td > a,
+table .success > a,
+table .warning > a,
+table .danger > a,
+table .info > a {
+  color: #fff;
+}
+table > thead > tr > th,
+table > tbody > tr > th,
+table > tfoot > tr > th,
+table > thead > tr > td,
+table > tbody > tr > td,
+table > tfoot > tr > td {
+  border: none;
+}
+table-bordered > thead > tr > th,
+table-bordered > tbody > tr > th,
+table-bordered > tfoot > tr > th,
+table-bordered > thead > tr > td,
+table-bordered > tbody > tr > td,
+table-bordered > tfoot > tr > td {
+  border: 1px solid #68695d;
+}
+table > tbody > tr:nth-of-type(odd) {
+  background-color: #55564c;
+}
+@media screen and (max-width: 767px) {
+  table {
+    width: 100%;
+    margin-bottom: 15.75px;
+    overflow-y: hidden;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+    border: 1px solid #68695d;
+  }
+  table > .table {
+    margin-bottom: 0;
+  }
+  table > .table > thead > tr > th,
+  table > .table > tbody > tr > th,
+  table > .table > tfoot > tr > th,
+  table > .table > thead > tr > td,
+  table > .table > tbody > tr > td,
+  table > .table > tfoot > tr > td {
+    white-space: nowrap;
+  }
+  table > .table-bordered {
+    border: 0;
+  }
+  table > .table-bordered > thead > tr > th:first-child,
+  table > .table-bordered > tbody > tr > th:first-child,
+  table > .table-bordered > tfoot > tr > th:first-child,
+  table > .table-bordered > thead > tr > td:first-child,
+  table > .table-bordered > tbody > tr > td:first-child,
+  table > .table-bordered > tfoot > tr > td:first-child {
+    border-left: 0;
+  }
+  table > .table-bordered > thead > tr > th:last-child,
+  table > .table-bordered > tbody > tr > th:last-child,
+  table > .table-bordered > tfoot > tr > th:last-child,
+  table > .table-bordered > thead > tr > td:last-child,
+  table > .table-bordered > tbody > tr > td:last-child,
+  table > .table-bordered > tfoot > tr > td:last-child {
+    border-right: 0;
+  }
+  table > .table-bordered > tbody > tr:last-child > th,
+  table > .table-bordered > tfoot > tr:last-child > th,
+  table > .table-bordered > tbody > tr:last-child > td,
+  table > .table-bordered > tfoot > tr:last-child > td {
+    border-bottom: 0;
+  }
 }
 .navbar {
   border-width: 0;
