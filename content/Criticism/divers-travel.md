@@ -1,6 +1,6 @@
 Title: High days, holidays, hejiras: travelling through <i>Divers</i>
 Author: Rufous Nightjar
-Date: 2016-09-22
+Date: 2016-09-25
 Status: published
 
 This piece explores the theme of travel running throughout *Divers*, recently highlighted by a [recent post][batb] at Blessing All the Birds and [also explored][mh] by Michael Hicks. However, I want to introduce it by talking about the Joni Mitchell album, *[Hejira][]*. Every song on that album relates to travelling or sight-seeing in one way or another --- including mentions of New York City, aeroplane flights, and diving birds --- yet Mitchell's recounted travels are not often happy ones, hence the title, which is defined as an "exodus or departure" (OED).[^9]
