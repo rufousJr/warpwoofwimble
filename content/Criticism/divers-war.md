@@ -13,7 +13,7 @@ In ["Sapokanikan"][], the blood has already been spilled. In the guise of omnisc
 
 To the themes of the song, I find a poem by Great War veteran Ivor Gurney particularly fitting. In ["After-Glow"][], he recalls a time when, in the nocturnal silence of the trenches,
 
-!! lyrics ""
+!!! lyrics ""
 	> Time passed from mind. Time died; and then we were  
 	> Once more at home together, you and I.
 	
