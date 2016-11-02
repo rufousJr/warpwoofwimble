@@ -51,3 +51,8 @@ The nightjar typically inhabits woodland, heaths and forest edges, and its pluma
 
 The loon, or diver, is a large aquatic bird.
 
+!!! lyrics ""
+	> bound to a wheel that is not my own
+	
+This line evokes the concept of the "wheel of fortune" contemplated in, for example, "O Fortuna" from *Carmina Burana*, but it could also be another bird reference, as the nightjar is also known as the wheel-bird.
+

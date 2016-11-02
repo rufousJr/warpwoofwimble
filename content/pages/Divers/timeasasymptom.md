@@ -1,27 +1,45 @@
 Title: Time, As a Symptom
 Release: Divers
 
-!!! "" epigraph
-	> So the last will be first,
-	> and the first last.
-	> For many are called,
-	> but few chosen.
-	> <footer>Matthew 20:16 (The Parable of the Workers in the Vineyard)</footer>
+!!! epigraph ""
+	> And the signifieds butt heads  
+	> with the signifiers,  
+	> and we all fall down slack-jawed  
+	> to marvel at words!  
+	> While across the sky sheet  
+	> the impossible birds, in a steady,  
+	> illiterate movement homewards.
+	><footer>Joanna Newsom, from "This Side of the Blue", <i>The Milk-eyed Mender</i></footer>
 
 # Annotations #
 
 ## Bird calls ##
 
-Two birdcalls are heard at the beginning of the album recording. As stated in the liner notes, one is that of the mourning dove. The other seems to be the white-crowned sparrow.
+Two birdcalls are heard at the beginning of the album recording. As stated in the liner notes, one is that of the mourning dove. The other seems to be the white-crowned sparrow. On the subject of the mourning dove's call, Newsom said:
+> This bird call affects me very deeply, it would also be the bird call that I would hear in the evening in our [childhood] house and I have lots of differet associations with it. There is something in the chorus that the vocal does that reminded me of it[...].[^badday]
 
-## Literary allusions ##
+## Allusions ##
 
 !!! lyrics ""
-	> a way a lone a last a loved a long.
+	> *a way a lone a last a loved a long.*
 
 This line is an excerpt from the novel *Finnegans Wake* by James Joyce. Specifically, it is a fragment that appears twice, as the first and last words of the book. Newsom apologies to Joyce "for liberties taken" in the liner notes. (The silk dresses worn by Newsom in the promotional photography for *Divers* are from the clothing line Awaveawake. Coincidence?)
 
 !!! lyrics ""
+	> And in our perfect secret-keeping:  
+	> One ear of corn,  
+	> in silent, reaping  
+	> joy of life.  
+	> [...]  
 	> (Areion, Rharian, go free and graze. Amen.)
 
-Th names Areion and Rharian are taken from Greek mythology. The Rharian fields are associated with the gift of agriculture, given to humanity by the goddess Demeter, whose horse-son is named Areion. User ~Jordan on the Milky Moon forums gave an excellent [explanation and analysis](http://www.fromamouth.com/milkymoon/viewtopic.php?f=23&t=1424) of this part.
+The names Areion and Rharian are taken from Greek mythology. The Rharian fields are associated with the gift of agriculture, given to humanity by the goddess Demeter, whose horse-son is named Areion. Taken with the earlier reference to an ear of corn, an allusion to the ancient Greek initiations known as the Eleusinian mysteries becomes apparent. User '~Jordan' on the Milky Moon forums gave an excellent [explanation and analysis](http://www.fromamouth.com/milkymoon/viewtopic.php?f=23&t=1424) of this part.
+
+!!! lyrics ""
+	> A shore, a tide, unmoored --- a sight, abroad:  
+	> [...]  
+	> White star, white ship[...]
+
+It has been suggested that these lines refer to the tragedy of the RMS Titanic, which was operated by the White Star Line.
+
+[^badday]: Bad Day Magazine #20, June 2016

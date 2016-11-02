@@ -1,6 +1,18 @@
 Title: A Pin-Light, Bent
 Release: Divers
 
+!!! epigraph ""
+	> Higgledy piggledy  
+	> Vladimir Nabokov ---  
+	> Wait! Hasn't somebody  
+	> Made a mistake?  
+	>   
+	> Out of such errors, Vla--  
+	> *di*mir Na*bo*kov would  
+	> Sesquipedalian  
+	> Paragraphs make.
+	><footer>Unattributed</footer>
+
 # Annotations #
 
 !!! lyrics ""
