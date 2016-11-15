@@ -10,6 +10,18 @@ Release: Divers
 	> the impossible birds, in a steady,  
 	> illiterate movement homewards.
 	><footer>Joanna Newsom, from "This Side of the Blue", <i>The Milk-eyed Mender</i></footer>
+	
+<!--!!! epigraph ""
+	> At once a voice arose among  
+	> The bleak twigs overhead  
+	> In a full-hearted evensong  
+	> Of joy illimited;  
+	> An aged thrush, frail, gaunt, and small,  
+	> In blast-beruffled plume,  
+	> Had chosen thus to fling his soul  
+	> Upon the growing gloom.
+	><footer>Thomas Hardy, from "The Darkling Thrush"</footer>-->
+	
 
 # Annotations #
 

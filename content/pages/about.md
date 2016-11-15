@@ -8,7 +8,7 @@ This site is written as a reference for those studying the works of Joanna Newso
 
 The album articles draw together quotes from interviews and information from liner notes. They might help the reader come across novel interviews, or just learn a bit more about the album.
 
-The song annotations are kept quite conservative, focussing largely on well-accepted interpretation. However, the reader should bear in mind that the annotations are written by one person and constitute a subjective, and therefore debatable, intepretation of the songs.
+The song annotations are intended to be conservative, commonly-cited interpretations. I wish to make clear that many of the annotations are not original; rather, each song's page represents a collation of many people's analyses, which I have simply drawn together (albeit before adding a few thoughts of my own). However, the reader should bear in mind that the annotations are ultimately written by one person and constitute a subjective, and therefore debatable, intepretation of the songs.
 
 # Me #
 

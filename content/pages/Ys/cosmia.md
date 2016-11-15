@@ -1,6 +1,18 @@
 Title: Cosmia
 Release: Ys
 
+!!! epigraph ""
+	> Wide open on its pin (though fast asleep),  
+	> and safe from creeping relatives and rust,  
+	> in the secluded stronghold where we keep  
+	> type specimens it will transcend its dust.
+	> 
+	> Dark pictures, thrones, the stones that pilgrims kiss,  
+	> poems that take a thousand years to die  
+	> but ape the immortality of this  
+	> red label on a little butterfly.
+	> <footer>Vladimir Nabokov, from "A Discovery", <cite>Poems</cite></footer>
+
 The mentions of moths throughout the lyrics associate the subject of this song with the genus of moths called *Cosmia*. A moth is likely the framed creature in the *Ys* cover painting.
 
 # Annotations #
