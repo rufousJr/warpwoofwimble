@@ -35,6 +35,7 @@ This is a list of features that are paywalled or otherwise unavailable online.
 
 ## Interviews ##
 
+ * The Face Vol. 3 #68, September 2002
  * Bay Area Buzz, May/June 2003
  * Boston Globe, June 2004
  * Plan B magazine #0.5, November 2004 ([pdf]({filename}/pdfs/planb-issue0.5.pdf)[^planb])

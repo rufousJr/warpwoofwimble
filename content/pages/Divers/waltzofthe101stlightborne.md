@@ -21,7 +21,7 @@ A narrative for this song was outlined by Newsom in Paste Magazine.[^paste]
 
 > **I've often wondered too about the instances when you double or triple your voice and make it a chorus of Joanna Newsoms, which you do a lot on this album. Is that because you can't find the right voice, or the right person who gets what you're going for?**
 >
-> No, it was a choice for this record. I've had other people sing harmonies on records in the past. But one of the sort of sci-fi notions on this record is the idea of traveling sideways through time, colonizing various iterations of the multiverse in which human life never evolved to exist in the first place, having that be a form of population control. In "Waltz of the 101st Lightborne," there's this sort of horror movie sting that happens at the end, where a different version of Earth evolved to develop the exact same set of technological advances and basically, an iteration of Earth occurred where all of the conditions were exactly the same, and so it's basically a copy, and they're coming over to colonize in reverse, and this idea of doubling, so that's sort of the horror/sci-fi version of doubling and there's constant references to the doubling of the self and the halving of the self, the binary of the self throughout the record, so it seems to be the most sensible move to have myself be doubled and copied over and over again, singing harmonies, rather than bringing in another personn.
+> No, it was a choice for this record. I've had other people sing harmonies on records in the past. But one of the sort of sci-fi notions on this record is the idea of traveling sideways through time, colonizing various iterations of the multiverse in which human life never evolved to exist in the first place, having that be a form of population control. In "Waltz of the 101st Lightborne," there's this sort of horror movie sting that happens at the end, where a different version of Earth evolved to develop the exact same set of technological advances and basically, an iteration of Earth occurred where all of the conditions were exactly the same, and so it's basically a copy, and they're coming over to colonize in reverse, and this idea of doubling, so that's sort of the horror/sci-fi version of doubling and there's constant references to the doubling of the self and the halving of the self, the binary of the self throughout the record, so it seems to be the most sensible move to have myself be doubled and copied over and over again, singing harmonies, rather than bringing in another person.
 
 [^paste]:[Paste Magazine, November 2015][paste]
 
@@ -60,7 +60,7 @@ Oh, and don't waste time looking up 'simulacreage' in the dictionary!
 	> That's why we got bound to a round desert island,  
 	> 'neath the sky where our sailors have gone.  
 	> Have they drowned, in those windy highlands?  
-	> Highlands away, my John.
+	> *Highlands away, my John.*
 
 In an interview, Newsom said, "[I contrast] this British Isles sea shanty with a narrative in which I'm talking about colonizing alternative iterations of the terrestral position in the multiverse."[^fader] The shanty is "Lowlands Away", and its connection with "Waltz..." is analysed by Melissa of Blessing All the Birds, in ["Lowlands Away" and "Waltz of the 101st Lightborne"][batb].
 
