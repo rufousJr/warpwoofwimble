@@ -74,11 +74,13 @@ And, in "A Pin-light, Bent", the flight attendant responds,
 
 This would be a fitting way to end the album, yet I believe that the form of the song implies its consequent. As mentioned earlier, the structure indicates symmetry, but Newsom chooses to cut the natural conclusion, bringing to song to an abrupt end. We could, therefore, consider the next track as a continuation of the thoughts of "A Pin-light, Bent".
 
-In terms of narrative, this song is notably similar to James Dickey's poem, "Falling", and, while their forms differ significantly, each has a distinctive structure that serves to inform the meaning of the work. Perhaps, like Dickey's air stewardess (who, during the ultimate freedom afforded by death, undresses as she falls), Newsom's narrator breaks free of the trammels of her origins to express herself -- "unmarked", "unmoored", and at last taken seriously -- in the following track.
+In terms of narrative, this song is notably similar to James Dickey's poem, "Falling", and, while their forms differ significantly, each has a distinctive structure that serves to inform the meaning of the work.[^4] Perhaps, like Dickey's air stewardess (who, during the ultimate freedom afforded by death, undresses as she falls), Newsom's narrator breaks free of the trammels of her origins to express herself -- "unmarked", "unmoored", and at last taken seriously -- in the following track.
 
 [^3]: ["Divers' ring composition: sources of inspiration and meaning"](http://www.fromamouth.com/milkymoon/viewtopic.php?f=58&t=1391)
 
 [^2]: The layout of the lyrics in the *Divers* lyric booklet obscures the essential structure of the last three lines of S3, which are sung as four: "from that height was a honeycomb / made of light from those funny homes, / intersected: each enclosed, / anelectric and alone."
+
+[^4]: Dickey: "I was interested in using the kind of time-telescoping effect that Bergson talks about in discussing the difference between clock time and lived time. It takes twenty minutes to read the poem, more or less. It surely wouldn’t have taken her nearly that long to fall. But as to how long it seemed to her, that’s quite a different thing." ([source](http://www.english.illinois.edu/maps/poets/a_f/dickey/falling.htm))
 
 ["A Pin-light, Bent"]: {filename}../pages/Divers/apinlightbent.md
 ["The Back Seat of My Mother's Car"]: http://www.poetryarchive.org/poem/back-seat-my-mothers-car

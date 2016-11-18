@@ -1,6 +1,5 @@
 Title: Divers (album)
 Release: Divers
-Authors: Rufous Nightjar
 Status: published
 
 Contents:

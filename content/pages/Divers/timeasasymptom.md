@@ -28,7 +28,7 @@ Release: Divers
 ## Bird calls ##
 
 Two birdcalls are heard at the beginning of the album recording. As stated in the liner notes, one is that of the mourning dove. The other seems to be the white-crowned sparrow. On the subject of the mourning dove's call, Newsom said:
-> This bird call affects me very deeply, it would also be the bird call that I would hear in the evening in our [childhood] house and I have lots of differet associations with it. There is something in the chorus that the vocal does that reminded me of it[...].[^badday]
+> This bird call affects me very deeply, it would also be the bird call that I would hear in the evening in our [childhood] house and I have lots of different associations with it. There is something in the chorus that the vocal does that reminded me of it[...].[^badday]
 
 ## Allusions ##
 

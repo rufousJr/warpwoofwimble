@@ -17,6 +17,9 @@ Release: Divers
 
 # Annotations #
 
+## Samples ##
+The recording features samples of bird calls (see below) but the very start has a kind of rumbling that I have been unable to identify. Uncredited drums, perhaps?
+
 ## Birds ##
 
 The album recording opens with birdsong --- if anyone can identify it, contact me! --- and the lyrics are littered with references to the names and behaviours of various birds.
