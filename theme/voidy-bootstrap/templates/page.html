@@ -38,9 +38,9 @@
 <article itemscope="itemscope" 
          itemtype="http://schema.org/{{page.schema_type|default('WebPage') }}">
   <header>
-    <h1 itemprop="name headline">{{ page.title }} </h1>
+    <h1 class="header-title" itemprop="name headline">{{ page.title }} </h1>
 	{% if page.release != DEFAULT_RELEASE %}
-	<p><small>{{ page.release }}</small></p>
+	<p class="header-info">{{ page.release }}</p>
 	{% endif %}
     {% if PDF_PROCESSOR %}
     <a href="{{ SITEURL }}/pdf/{{ page.slug }}.pdf">PDF</a>

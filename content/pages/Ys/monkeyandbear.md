@@ -38,6 +38,6 @@ The phrase "a land of milk and honey" comes from *Exodus 33:3*, as a description
 	> And we can't have none of *that*!  
 	> Move along, Bear; there, there; that's that."
 
-This is probably obvious to any fluent English speaker, but it's worth highlighting. This verse makes a pun of the English idiom, "the pot calling the kettle black".
+This verse makes a pun of the English idiom, "the pot calling the kettle black". Additionally, in ornithology, the word "kettle" signifies a group of birds circling in flight.
 
 [wire]: http://www.thewire.co.uk/in-writing/interviews/joanna-newsom.1

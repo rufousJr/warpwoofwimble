@@ -17,7 +17,7 @@
 }
 
 #site-title {
-    color: @brand-warning;
+    color: @headings-color;
     font-family: monospace;
 }
 
@@ -33,6 +33,20 @@
     header {
         .panel-heading;
         border-color: @headings-color;
+        .header-title {
+            .header-title;
+            font-size: @font-size-title;
+            /* The titles will only be larger if they are the focus of the page (ie. not when they are listed on the index page) */
+        }
+    }
+
+    /* The titles of pages and articles will always have this colour */
+    .header-title {
+            color: @brand-warning;
+        }
+
+    .header-info, .header-date {
+            color: @gray;
     }
 
     .content-body, .footnote {
@@ -41,6 +55,7 @@
 
     hr {
         margin: 3% 25% 3% 25%;
+        /* Smaller hrs when used within the main content body */
     }
     
     .footnote hr {

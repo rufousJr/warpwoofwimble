@@ -7,19 +7,6 @@
 //
 //## Gray and brand colors for use across Bootstrap.
 
-/*@gray-base:              #000;
-@gray-darker:            lighten(@gray-base, 13.5%); // #222
-@gray-dark:              #303030;   // #333
-@gray:                   #464545;
-@gray-light:             #999;   // #999
-@gray-lighter:           #EBEBEB; // #eee
-
-@brand-primary:         #375a7f;
-@brand-success:         #00bc8c;
-@brand-info:            #3498DB;
-@brand-warning:         #F39C12;
-@brand-danger:          #E74C3C;*/
-
 @gray-base:              #000;
 @gray-darker:            darken(@gray-dark,12%);
 @gray-dark:              darken(@gray,12%);
@@ -31,7 +18,7 @@
 @brand-success:         hotpink; //see below
 @brand-info:            hotpink;
 @brand-warning:         #ddbb57; //golden sky
-@brand-danger:          darken(#C32A34,15%); //ruby flower
+@brand-danger:          darken(#C32A34,15%); //ruby flower, darkened for better effect with white on grey theme
 
 //      The purpose of the hot pink is to to make sure I notice if I add any elements that have
 //  hot pink highlights so that I can restyle them appropriately
@@ -47,10 +34,8 @@
 @text-color:            #fff;
 
 //** Global textual link color.
-/*@link-color:            desaturate(lighten(@brand-danger, 10%),10%); //was brand-success*/
 @link-color:            @brand-primary;
-//** Link hover color set via `darken()` function.
-@link-hover-color:      @link-color;
+@link-hover-color:      lighten(@link-color, 6%);
 //** Link hover decoration.
 @link-hover-decoration: underline;
 
@@ -69,6 +54,7 @@
 @font-size-large:         ceil((@font-size-base * 1.25)); // ~18px
 @font-size-small:         ceil((@font-size-base * 0.85)); // ~12px
 
+@font-size-title:         floor((@font-size-base * 2.8)); // to be used for article and page titles only
 @font-size-h1:            floor((@font-size-base * 2.6)); // ~36px
 @font-size-h2:            floor((@font-size-base * 2.15)); // ~30px
 @font-size-h3:            ceil((@font-size-base * 1.7)); // ~24px
@@ -467,19 +453,19 @@
 //##
 
 @pagination-color:                     #fff;
-@pagination-bg:                        @brand-success;
+@pagination-bg:                        @brand-danger;
 @pagination-border:                    transparent;
 
 @pagination-hover-color:               #fff;
-@pagination-hover-bg:                  lighten(@brand-success, 6%);
+@pagination-hover-bg:                  lighten(@brand-danger, 6%);
 @pagination-hover-border:              transparent;
 
 @pagination-active-color:              #fff;
-@pagination-active-bg:                 lighten(@brand-success, 6%);
+@pagination-active-bg:                 lighten(@brand-danger, 6%);
 @pagination-active-border:             transparent;
 
 @pagination-disabled-color:            #fff;
-@pagination-disabled-bg:               darken(@brand-success, 15%);
+@pagination-disabled-bg:               darken(@brand-danger, 15%);
 @pagination-disabled-border:           transparent;
 
 

@@ -1106,7 +1106,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #919cc3;
+  color: #a5aece;
   text-decoration: underline;
 }
 a:focus {
@@ -3427,7 +3427,7 @@ fieldset[disabled] .btn-link {
 }
 .btn-link:hover,
 .btn-link:focus {
-  color: #919cc3;
+  color: #a5aece;
   text-decoration: underline;
   background-color: transparent;
 }
@@ -4732,7 +4732,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
   line-height: 1.42857143;
   text-decoration: none;
   color: #ffffff;
-  background-color: #ff69b4;
+  background-color: #841c23;
   border: 1px solid transparent;
   margin-left: -1px;
 }
@@ -4753,7 +4753,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .pagination > li > span:focus {
   z-index: 2;
   color: #ffffff;
-  background-color: #ff88c3;
+  background-color: #9d222a;
   border-color: transparent;
 }
 .pagination > .active > a,
@@ -4764,7 +4764,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .pagination > .active > span:focus {
   z-index: 3;
   color: #ffffff;
-  background-color: #ff88c3;
+  background-color: #9d222a;
   border-color: transparent;
   cursor: default;
 }
@@ -4775,7 +4775,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .pagination > .disabled > a:hover,
 .pagination > .disabled > a:focus {
   color: #ffffff;
-  background-color: #ff1c8e;
+  background-color: #450f12;
   border-color: transparent;
   cursor: not-allowed;
 }
@@ -4824,14 +4824,14 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .pager li > span {
   display: inline-block;
   padding: 5px 14px;
-  background-color: #ff69b4;
+  background-color: #841c23;
   border: 1px solid transparent;
   border-radius: 15px;
 }
 .pager li > a:hover,
 .pager li > a:focus {
   text-decoration: none;
-  background-color: #ff88c3;
+  background-color: #9d222a;
 }
 .pager .next > a,
 .pager .next > span {
@@ -4846,7 +4846,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .pager .disabled > a:focus,
 .pager .disabled > span {
   color: #dddddd;
-  background-color: #ff69b4;
+  background-color: #841c23;
   cursor: not-allowed;
 }
 .label {
@@ -6764,19 +6764,6 @@ button.close {
     display: none !important;
   }
 }
-/*@gray-base:              #000;
-@gray-darker:            lighten(@gray-base, 13.5%); // #222
-@gray-dark:              #303030;   // #333
-@gray:                   #464545;
-@gray-light:             #999;   // #999
-@gray-lighter:           #EBEBEB; // #eee
-
-@brand-primary:         #375a7f;
-@brand-success:         #00bc8c;
-@brand-info:            #3498DB;
-@brand-warning:         #F39C12;
-@brand-danger:          #E74C3C;*/
-/*@link-color:            desaturate(lighten(@brand-danger, 10%),10%); //was brand-success*/
 /*@navbar-default-link-hover-color:          @brand-success;*/
 /*@nav-tabs-active-link-hover-color:          @brand-success;*/
 #overview {
@@ -6784,7 +6771,7 @@ button.close {
   text-align: center;
 }
 #site-title {
-  color: #ddbb57;
+  color: #fff2da;
   font-family: monospace;
 }
 #site-subtitle {
@@ -6799,6 +6786,7 @@ button.close {
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
   background: #282824;
+  /* The titles of pages and articles will always have this colour */
 }
 #content > .list-group,
 #content > .panel-collapse > .list-group {
@@ -6976,12 +6964,25 @@ button.close {
 #content header > .dropdown .dropdown-toggle {
   color: inherit;
 }
+#content header .header-title {
+  color: #ddbb57;
+  font-size: 42px;
+  /* The titles will only be larger if they are the focus of the page (ie. not when they are listed on the index page) */
+}
+#content .header-title {
+  color: #ddbb57;
+}
+#content .header-info,
+#content .header-date {
+  color: #68695d;
+}
 #content .content-body,
 #content .footnote {
   padding: 15px;
 }
 #content hr {
   margin: 3% 25% 3% 25%;
+  /* Smaller hrs when used within the main content body */
 }
 #content .footnote hr {
   margin: auto;
@@ -7345,7 +7346,7 @@ textarea:focus {
 .pager .disabled > a:hover,
 .pager .disabled > a:focus,
 .pager .disabled > span {
-  background-color: #ff1c8e;
+  background-color: #450f12;
 }
 .breadcrumb a {
   color: #fff;

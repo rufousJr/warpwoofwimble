@@ -20,6 +20,8 @@ Song annotations:
 10. [A Pin-Light Bent]({filename}apinlightbent.md)
 11. [Time, as a Symptom]({filename}timeasasymptom.md)
 
+- [Making Hay]({filename}makinghay.md)
+
 # Production #
 
 Newsom took a much larger role in the production of this album, the first for which she was involved in the mixing. The mixing took six months, and the album was mastered eleven times.[^rookie] "I had a really strong opinion about every note, every beat, every word."[^latimes] Several of the production team and musicans on the record have been credited on other Newsom albums too. Newsom mentions the recording process in a Guardian interview,[^guardian] and it is covered in great depth in an interview with Stereophile entitled [Joanna Newsom, Kingdom of the Harp][stereophile].
@@ -29,21 +31,6 @@ Though the album features an eclectic mix of instruments, the only voices on the
 [^rookie]:[Rookie Magazine, issue 50 (2015)][rookie]
 [^latimes]:[LA Times, October 2015][latimes]
 [^guardian]:[Guardian, October 2015][guardian]
-
-
-# The missing song #
-
-An unknown song was cut from the album, as mentioned in Rookie Magazine.
-
-> Well, I cut a whole song.
->
-> **Oh, wow.**
->
-> It was having a diluting or weakening effect, I think. It was approaching but not reaching the thing I wanted it to be, and it was pulling focus away. It was also a bit of a stretch harmonically; it didn't totally work in this pattern I was setting up. It kind of worked, I could justify it, but it was a weak link, harmonically speaking.
->
-> **Are there any remanants of [the cut song] in the other songs?**
->
-> There's a lyrical remnant. A lot of the record has this binary thing, where ideas are set up in opposition to each other and create a tension. There's a key lyric, in the last song on the record, "Time, as a Symptom," a lyric, "I was wrong, it pains me to say I was wrong. / Love is not a symptom of time, time is a symptom of love." That's in reference to the establishing claim that was made in the song that was cut. But it seemed unnecessary because it was all in there already, it was redundant in a way.[^rookie]
 
 
 # Album artwork, aesthetic and physical copies #
@@ -73,6 +60,10 @@ The vinyl (double LP) album is notable for having inscriptions on each side.[^di
 
 [^paste]:[Paste Magazine, November 2015][paste]
 [^discogs]:[Divers (vinyl release) on Discogs][discogs]
+
+## Outtakes ##
+
+The missing song mentioned by Newsom in interviews turned out to be "Making Hay", which was released by Drag City a year after the album's launch. It sounds to be a demo version, similar to the demo version of "Anecdotes", which surfaced some months after the release of the album and which also lacks the high level of production and complex instrumentation heard on the album.
 
 [vogue]: http://www.vogue.com/13364488/joanna-newsom-divers-profile/
 [rookie]: http://www.rookiemag.com/2015/10/joanna-newsom-interview/

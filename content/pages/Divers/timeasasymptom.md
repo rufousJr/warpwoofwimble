@@ -1,7 +1,7 @@
 Title: Time, As a Symptom
 Release: Divers
 
-!!! epigraph ""
+<!--!!! epigraph ""
 	> And the signifieds butt heads  
 	> with the signifiers,  
 	> and we all fall down slack-jawed  
@@ -9,7 +9,7 @@ Release: Divers
 	> While across the sky sheet  
 	> the impossible birds, in a steady,  
 	> illiterate movement homewards.
-	><footer>Joanna Newsom, from "This Side of the Blue", <i>The Milk-eyed Mender</i></footer>
+	><footer>Joanna Newsom, from "This Side of the Blue", <i>The Milk-eyed Mender</i></footer>-->
 	
 <!--!!! epigraph ""
 	> At once a voice arose among  
@@ -21,6 +21,19 @@ Release: Divers
 	> Had chosen thus to fling his soul  
 	> Upon the growing gloom.
 	><footer>Thomas Hardy, from "The Darkling Thrush"</footer>-->
+
+!!! epigraph ""
+	> Busie old foole, unruly Sunne,  
+	> Why dost thou thus,  
+	> Through windows,  and through curtaines call on us?  
+	> Must to thy motions lovers' seasons run?  
+	> Sawcy pedantique wretch, goe chide  
+	> Late schoole boys, and sowre prentices,  
+	> Goe tell Court-huntsmen, that the King will ride,  
+	> Call countrey ants to harvest offices;  
+	> Love, all alike, no season knows, nor clyme,  
+	> Nor houres, dayes, moneths, which are the rags of time.
+	> ><footer>John Donne, from "The Sunne Rising"</footer>
 	
 
 # Annotations #
