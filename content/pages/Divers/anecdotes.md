@@ -1,7 +1,7 @@
 Title: Anecdotes
 Release: Divers
 
-!!! epigraph ""
+<!--!!! epigraph ""
 	> A poem should be motionless in time  
 	> As the moon climbs,  
 	>   
@@ -13,7 +13,12 @@ Release: Divers
 	>   
 	> A poem should be motionless in time  
 	> As the moon climbs.  
-	> <footer>Archibald MacLeish, from "Ars Poetica"</footer>
+	> <footer>Archibald MacLeish, from "Ars Poetica"</footer>-->
+
+!!! epigraph ""
+	> How do you know but ev'ry bird that cuts the airy way,  
+	> Is an immense world of delight, clos'd by your senses five?
+	> <footer>William Blake, from "A Memorable Fancy", *The Marriage of Heaven and Hell*</footer>
 
 # Annotations #
 

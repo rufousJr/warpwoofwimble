@@ -1,6 +1,7 @@
 Title: Sawdust and Diamonds
 Release: Ys
 
+Curiously, Newsom said the following in a 2003 interview with East Bay Express:
 > I think every song I write is just attempting to bring back this moment that I had when I was probably a year old. I had a dream about a huge cat and a huge dog wearing party hats, holding a big glass bowl of jelly beans and looking at each other in the eyes and being really silent. And they were standing at the top of these stairs and I swear that the stairs --- and I know this sounds ridiculous --- but in my dream, I woke up and I thought that I had seen eternity. I thought that I had actually visually seen what it looked like for something to not to end, you know?[^ebe]
 
 [^ebe]:[East Bay Express, March 2003][ebe]

@@ -54,7 +54,7 @@ And the resonances I hear in S4 are with those less happy parts of the album tha
 
 S5 echoes, primarily, the first and second stanzas, in terms not only of its rhyme and structure but also its sentiment. The narrator talks again of her life, her death, and the small freedoms found between the two. Yet the tone has darkened; we aren't laughing any more.
 
-We also find the song's second echo of "Anecdotes". This echo is stronger than the others, and is of a sort found often in *Divers*: namely, the call-and-response.
+We also find the song's final echo of "Anecdotes". This echo is stronger than the others, and is of a sort found often in *Divers*: namely, the call-and-response.
 
 In "Anecdotes", the nightjar calls,
 
