@@ -11,20 +11,21 @@ Release: Divers
 	> at one end and unrolling at the other  
 	> <footer>Margaret Atwood, from "1837 War in Retrospect", <cite>The Journals of Susanna Moodie</cite></footer>
 
-"Sapokanikan" was described by Newsom as concerning "the roles that documentation plays in our concept of cultural permanence or cultural impermanence".[^stranger]
+"Sapokanikan" was described by Newsom as concerning "the roles that documentation plays in our concept of cultural permanence or cultural impermanence".[^stranger] On that subject, she has also said, "No matter what the lyrical content of my songs is, it’s a losing battle at this point to try to make albums unanchored by the times in which they’re conceived. My songs might not be littered with references to Twitter and Angry Birds, but they still fix me as irremovably in this decade as Daniel Day-Lewis’s hilarious shirt in Last of the Mohicans fixes him in 1992 and not the 1750s. I don’t aspire to write in a voice that is outside time; I just write about what is interesting and moving to me."[^bomb]
 
 This song has a notoriously large number of historical references within. In an interview around the time of the release of the music video, Newsom said, "...only hours after the video was out...a lot of the material elements of the song --- meaning the things that could be deciphered or could be researched --- had been thoroughly found at that point. As of the last time I saw it, there were still a few little things that hadn't been figured out, so I was like, 'Haha! You haven't got that yet!' But they had gotten so much of it."[^stereogum]
 
 Newsom apologises to several of the referenced people "for liberties taken" in the liner notes.
 
 [^stranger]:[The Stranger, March 2015][stranger]
+[^bomb]:["Joanna Newsom by Roy Harper", Bomb Magazine 116, Summer 2011][bombmagazine]
 [^stereogum]:[Stereogum, October 2015][stereogum]
 
 # Annotations #
 
 ## Ozymandias ##
 
-The lyrics contain numerous words and phrases taken from the well-known poem *Ozymandias* by Percy Bysshe Shelley (1792--1822), as well as its contemporary, but lesser-known namesake by Horace Smith (1779--1849). The connection was explained by Newsom as follows:
+The lyrics contain numerous words and phrases taken from the well-known poem "Ozymandias" by Percy Bysshe Shelley (1792--1822), as well as its contemporary, but lesser-known namesake by Horace Smith (1779--1849). The connection was explained by Newsom as follows:
 
 > I had never known about the second 'Ozymandias' poem, the Horace Smith poem. The Horace Smith one is essentially the same and maybe better, but the Shelley one became part of the popular consciousness. If you say 'Ozymandias', it's shorthand for an idea, and people who aren't English scholars or even poetry fans know about it. Within that context, the Horace Smith 'Ozymandias' is just lost, and I was thinking about the phenomenon of one of those poems becoming what it describes. It doesn't just describe the poem, it describes the process of the rendering of obsolescence. I think any record, any remnant is inherently cryptic. We're just seeing the elements of any institution or phenomenon or person or event that endure, and those elements are in many cases the result of bias, in many cases the result of arbitrariness, randomness, in many cases the result of acts of God, as it were. We're never experiencing anything as real, we're experiencing a distorted, adulterated, or aggrandised, or lionised, or different version of the past. It was a really exciting idea for me.[^uncut]
 
@@ -94,6 +95,7 @@ Spring (1890), by Australian impressionist Arthur Streeton, was found during a r
 # And more #
 In the process of writing the above annotations, I came across two pieces that might be of interest to the reader. Christopher Laws wrote a piece entitled [Themes and References in Joanna Newsom's Sapokanikan][culturedarm], which is a more detailed, hyperlinked and thoroughly-researched version of my annotations. Then Michael Hicks wrote an analysis that goes over all of the widely-accepted references and posits a whole heap more too. That one is named ["The Text Will not Yield": Fleeting Tesserae in Joanna Newsom's Sapokanikan][tesserae].
 
+["Ozymandias"]: https://www.poetryfoundation.org/resources/learning/core-poems/detail/46565#poem
 [paste]: https://www.pastemagazine.com/articles/2015/11/joanna-newsom-discusses-divers-and-her-solipsistic.html
 [stereogum]: http://www.stereogum.com/1837843/qa-joanna-newsom-on-moving-rocks-annotating-lyrics-and-playing-the-hits/franchises/interview/ "Stereogum interview"
 [stranger]: http://www.thestranger.com/slog/2016/03/23/23844024/joanna-newsom-the-stranger-interview
@@ -101,5 +103,6 @@ In the process of writing the above annotations, I came across two pieces that m
 [tesserae]: https://medium.com/@hexagn/the-text-will-not-yield-6872a6894ab3
 [mccarthy]: https://www.nycgovparks.org/parks/mccarthy-square/history
 [washington]: https://www.nycgovparks.org/parks/washington-square-park/history
+[bombmagazine]: http://bombmagazine.org/article/5106/joanna-newsom "Joanna Newsom by Roy Harper"
 
 
