@@ -20,7 +20,9 @@ Song annotations:
 10. [A Pin-Light Bent]({filename}apinlightbent.md)
 11. [Time, as a Symptom]({filename}timeasasymptom.md)
 
-- [Making Hay]({filename}makinghay.md)
+Outtake annotations:
+
+- [Make Hay]({filename}makinghay.md)
 
 # Production #
 

@@ -1,4 +1,4 @@
-Title: Making Hay
+Title: Make Hay
 Release: Divers (outtake)
 
 The existence of this song was revealed around the time of the album's release by an interview with Newsom in Rookie Magazine.
