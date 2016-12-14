@@ -57,7 +57,7 @@ The image of a bird, here a finch, killed by collision with a window is reminisc
 	> With your hands in your pockets,  
 	> stubbily running  
 	> to where I'm unfresh,  
-	> underssed and yawning ---  
+	> undressed and yawning ---  
 	
 In Guardian piece examining the extent to which modern songwriters are inspired by literature, Newsom revealed her inspiration from *The Sound and the Fury* by William Faulkner.
 

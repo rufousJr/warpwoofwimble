@@ -22,7 +22,7 @@ Song annotations:
 
 Outtake annotations:
 
-- [Make Hay]({filename}makinghay.md)
+- [Make Hay]({filename}makehay.md)
 
 # Production #
 
