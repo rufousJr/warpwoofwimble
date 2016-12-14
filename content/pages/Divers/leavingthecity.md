@@ -5,7 +5,8 @@ Newsom is quoted in detail regarding the rhyme scheme of this song in a article 
 
 > "['Leaving the City'] has the rhyme at the end of each line and the internal rhymes that follow one meter, and a secondary set of internal rhymes that sort of quietly annunciate a contrary meter that's overlaid on the first meter." She also said she "overlaid a contrary musical meter" on top of all that, and that I had to be "conscious of the sublimated contrary meter in order to trace the rhyme."[^stranger]
 
-[^stranger]:[The Stranger, March 2016][stranger].
+[^stranger]:[The Stranger, March 2016](http://www.thestranger.com/music/2016/03/23/23825152/the-deeper-you-dive-the-more-there-is-to-joanna-newsoms-music
+)
 
 # Annotations #
 
@@ -15,6 +16,11 @@ Newsom is quoted in detail regarding the rhyme scheme of this song in a article 
 	> We mean to stop, in increments, but can't commit.  
 	> We post and sit, in impotence:
 
-The canter and the trot are two horse gaits, while posting and sitting are horserider positions.
+The canter and the trot are two horse gaits, while posting and sitting are horserider's positions.
 
-[stranger]: http://www.thestranger.com/music/2016/03/23/23825152/the-deeper-you-dive-the-more-there-is-to-joanna-newsoms-music
+!!! lyrics ""
+	> and Spring, deranged,  
+	> weeping grass and sleepless,  
+	> broke herself upon my windowglass.
+
+This is perhaps an allusion to the beginning of the Vladimir Nabokov novel, *Pale Fire*. See also ["Only Skin"]({filename}../Ys/onlyskin.md).
