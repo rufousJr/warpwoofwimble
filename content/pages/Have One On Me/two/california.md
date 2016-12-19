@@ -1,0 +1,3 @@
+In other words, “Have One on Me,” like so many of Newsom’s songs, is bound up with the mythos of Nevada City. Travel, distance, exile, the yearning for home — Newsom returns to these themes repeatedly. The album’s emotional centerpiece is “In California,” a slow-boiling ballad sung in the voice of woman torn between longing for her far-flung lover and the siren call of her homeland. “If you want to know how Joanna feels about Nevada City,” Ryan Francesconi told me, “just read the lyrics to ‘In California’ very closely. It’s all in there — her relationship to her land, and her relationship of being in this place while people she loves are far away.”
+
+http://www.nytimes.com/2010/03/07/magazine/07Newsom-t.html?_r=1&pagewanted=all&
