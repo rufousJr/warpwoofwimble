@@ -37,7 +37,7 @@ Though the album features an eclectic mix of instruments, the only voices on the
 
 # Album artwork, aesthetic and physical copies #
 
-Newsom's collaborator for the photography of this album, Annabel Mehran, reportedly "dubbed the aesthetic of the songs pastoral futurism."[^vogue] Though this is the first album not to feature Newsom herself on the cover, she says it is still a "[portrait] of the narrator of the record."[^rookie] The back cover appears to be a still from the Divers music video. The album also features photographs from the promotional shoot conducted by Mehran.[^mehrandivers]
+Newsom's collaborator for the photography of this album, Annabel Mehran, reportedly "dubbed the aesthetic of the songs pastoral futurism."[^vogue] Though this is the first album not to feature Newsom herself on the cover, she says it is still a "[portrait] of the narrator of the record."[^rookie] The back cover appears to be a still from the Divers music video. The album also features photographs from the promotional shoot conducted by Mehran.[^mehrandivers] Carl Wilson used the artwork as a starting-point for an interesting essay on the album and two of its contemporaries, ["Joanna Newsom, Iris DeMent and Elena Ferrante: Three women performing vanishing acts in order to be seen more clearly"](http://www.slate.com/articles/arts/music_box/2015/11/joanna_newsom_iris_dement_and_elena_ferrante_three_women_performing_vanishing.html). 
 
 [^vogue]:[Vogue, October 2015][vogue]
 [^mehrandivers]:[A selection of photos from the shoot][stocklandannabel]
