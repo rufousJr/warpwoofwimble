@@ -11,7 +11,7 @@ Song annotations:
 1. [Anecdotes]({filename}anecdotes.md)
 2. [Sapokanikan]({filename}sapokanikan.md)
 3. [Leaving the City]({filename}leavingthecity.md)
-4. Goose Eggs
+4. [Goose Eggs]({filename}gooseeggs.md)
 5. [Waltz of the 101st Lightborne]({filename}waltzofthe101stlightborne.md)
 6. [The Things I Say]({filename}thethingsisay.md)
 7. [Divers]({filename}divers.md)
