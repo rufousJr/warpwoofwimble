@@ -1,6 +1,7 @@
-Title: Key interviews
-Status: published
+Title: Interviews
 Slug: interviews
+
+# Key interviews #
 
 There are many interviews and profiles quoted in the 'music' section of this site, but a few of them are well worth reading completely in their own right as they contain a lot of interesting material not necessarily related to a particular album or era.
 
@@ -21,12 +22,18 @@ There are many interviews and profiles quoted in the 'music' section of this sit
     This is about the closest thing I've seen to a biography of Newsom, which covers up to the Milk-Eyed Mender era.
 
 [eastbayexpress]: http://www.eastbayexpress.com/oakland/outer-child/Content?oid=1069605&showFullText=true "Outer Child"
-
 [bombmagazine]: http://bombmagazine.org/article/5106/joanna-newsom "Joanna Newsom by Roy Harper"
-
 [arthur2004]: https://arthurmag.com/2010/01/28/forty-six-strings-and-some-truths-a-conversation-with-joanna-newsom-2004/ "Forty-Six Strings and Some Truths"
-
 [undertheradar]: http://www.undertheradarmag.com/interviews/joanna_newsom/ "Joanna Newsom: Persistence of Vision"
+
+# Other interviews #
+
+ + links to hosted ones
+ + links to transcriptions
+ + link to Pinboard
+ + TW, etc
+
+
 
 
 

@@ -46,7 +46,7 @@ The title is pronounced like "ease". It comes from a myth (retold in the [Arthur
 
 # Artwork #
 
-The cover art was composed with egg-tempera and oil by Benjamin Vierling. The Milkymoon fan forums published an [interview with Vierling]({filename}vierling.md), extracted here:
+The cover art was composed with egg-tempera and oil by Benjamin Vierling. The Milkymoon fan forums published an [interview with Vierling]({filename}../interviews/vierling.md), extracted here:
 
 > We worked together to arrange the composition of the painting, and her input was indispensable. I would have been unable to evoke such subtle complexity without her influence. She brought a lot of thematic influence to the image, and through her enthusiasm I felt compelled to challenge my abilities as a painter. To identify the symbolic meaning behind the imagery, one would have to ask Joanna herself. My goal as a painter is to invoke the spirit of a Thing - be it an object an animal or a human- through my rendering of it, and thus I am not a 'Symbolist' in the literal sense because I believe that the image should speak for itself. Any and all secrets are there for the finding. One need only to look to discover...
 
