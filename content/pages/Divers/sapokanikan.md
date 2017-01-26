@@ -11,7 +11,7 @@ Release: Divers
 	> at one end and unrolling at the other  
 	> <footer>Margaret Atwood, from "1837 War in Retrospect", <cite>The Journals of Susanna Moodie</cite></footer>
 
-"Sapokanikan" was described by Newsom as concerning "the roles that documentation plays in our concept of cultural permanence or cultural impermanence".[^stranger]
+"Sapokanikan" was described by Newsom as concerning "the roles that documentation plays in our concept of cultural permanence or cultural impermanence".[^stranger] As a gloss of the title, she said, "It means 'tobacco field' and it was the name for the piece of land that became Washington Square Park, which is in the West Village."[^eggers]
 
 > No matter what the lyrical content of my songs is, it’s a losing battle at this point to try to make albums unanchored by the times in which they’re conceived. My songs might not be littered with references to Twitter and Angry Birds, but they still fix me as irremovably in this decade as Daniel Day-Lewis’s hilarious shirt in *Last of the Mohicans* fixes him in 1992 and not the 1750s. I don’t aspire to write in a voice that is outside time; I just write about what is interesting and moving to me.[^bomb]
 
@@ -19,6 +19,7 @@ This song has a notoriously large number of historical references within. In an 
 
 Newsom apologises to several of the referenced people "for liberties taken" in the liner notes.
 
+[^eggers]: [Joanna Newsom: In Conversation With Dave Eggers]({filename}../interviews/eggersnourse.md)
 [^bomb]:[Bomb: Artists in Conversation -- Joanna Newsom by Roy Harper](http://bombmagazine.org/article/5106/joanna-newsom)
 [^stranger]:[The Stranger, March 2015][stranger]
 [^stereogum]:[Stereogum, October 2015][stereogum]

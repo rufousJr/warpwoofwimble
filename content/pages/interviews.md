@@ -28,12 +28,15 @@ There are many interviews and profiles quoted in the 'music' section of this sit
 
 # Other interviews #
 
- + links to hosted ones
- + links to transcriptions
  + link to Pinboard
- + TW, etc
 
+## Transcripts ##
 
+  + [Joanna Newsom: In Conversation with Dave Eggers]({filename}interviews/eggersnourse.md)
+
+## Hard-to-find ##
+
+ + [milkymoon's interview with Benjamin Vierling]({filename}interviews/vierling.md)
 
 
 
