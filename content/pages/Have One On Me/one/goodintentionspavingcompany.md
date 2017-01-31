@@ -3,8 +3,6 @@ Release: Have One On Me
 
 # Annotations #
 
-## Title ##
-
 The title of the song is a riff on the proverb, "the road to hell is paved with good intentions". At the time of writing, Genius had an interesting annotation to the song, excerpted here:
 
 > "The Good Intentions Paving Company" is a phrase attributable to the novelist Saul Bellow, from [a letter to fellow novelist Philip Roth][nyr][^letter]. Bellow is referring to well-meaning literary journalists and interviewers (who nonetheless have 'fucked up again'), but the phrase becomes applicable to all manner of agents and institutions, such as governments, healthcare providers, and universities.
@@ -22,13 +20,19 @@ The title of the song is a riff on the proverb, "the road to hell is paved with 
 [nyr]: http://www.newyorker.com/magazine/2010/04/26/among-writers
 [wsj]: http://www.wsj.com/articles/SB10001424052702304020704579276942556236158
 
-## Eastering ##
-
 !!! "" lyrics
 	> and cry for no good reason  
 	> at the Eastering sky.
 	
 "Eastering" could have two meanings here: as an adjective, "eastering" is defined as "that is moving eastward", but it could also be the adjectival form of the noun, "Eastering",  meaning "the action or practice of celebrating Easter" (OED).
+
+!!! "" lyrics
+	> Well I saw straightaway  
+	> that the lay was steep,  
+	> but I fell for you, honey,  
+	> easy as falling asleep.
+
+"Lay" is another tricky one, and could be a combination of two senses, firstly as in the idiomatic phrase, 'the lay of the land', and secondly as in the slang for a partner in, or instance of, sexual intercourse.
 
 ## Allusions to other songs ##
 
@@ -46,7 +50,7 @@ This is a pun on two well-known songs: "Auld Lang Syne", originally a poem by Ro
 	> but I'm sold.  
 	> I am at home on that range.
 
-More tenuously, these later lines could be meant to evoke the country standard, "Home on the Range". Its status as a 'cowboy song' gives lends a resonance to the phrase "dead or alive" heard earlier in the song, and often seen on the stereotypical Wild West bounty notice.
+These later lines could be meant to evoke the country standard, "Home on the Range". Its status as a 'cowboy song' gives lends a resonance to the phrase "dead or alive" heard earlier in the song, and often seen on the stereotypical Wild West bounty notice. Newsom manages here to evoke three distinct meanings of 'range': the limits between which something varies; a large area of open land for grazing or hunting; and a large cooking stove with several burners or hotplates (OED). 
 
 ## Show business ##
 

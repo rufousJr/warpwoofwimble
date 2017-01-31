@@ -1,20 +1,18 @@
 Title: Easy
 Release: Have One On Me
 
-definition of roanoke? -- Roanoke River? Rowan Oak - Faulkner's house? The Lost Colony?
-
 # Annotations #
 
 !!! lyrics ""
 	> who will harvest what we have sewn
 
-Assuming that it isn't a misprint, the use of "sewn" in place of "sown" deserves to be noted.
+Whether "sewn" is a misprint of "sown", or a pun, is uncertain. Either way, the line is a paraphrase of St Paul's proverb from Galatians 6:7, which Newsom also considered in the out-take from *Divers*, ["Make Hay"]({filename}../Divers/makehay.md).
 
 !!! lyrics ""
 	> pluck every last daisy clean,  
 	> till only I may love you.
 	
-This image probably refers to the traditional "loves me, loves me not" game played by an anxious lover.
+This image refers to the traditional "loves me, loves me not" game played by an anxious lover.
 
 !!! lyrics ""
 	> Sit, and see how the fog,
@@ -28,7 +26,7 @@ This perhaps places the "river" mentioned in the song as the southwestern US Roa
 	> hear the frog, going courting  
 	> till the day he croaks,
 
-Perhaps an allusion to the traditional song, "Frog Went a-Courtin'". As a reassurance that this site is nowhere near the most niche on the Internet, I would recommend [David Highland's website](http://home.earthlink.net/~highying/froggy/froggy.html) containing over 170 verses of the song.
+Perhaps an allusion to the traditional song, "Frog Went a-Courtin'". As a reassurance that this site is nowhere near the most niche on the Internet, I would recommend [David Highland's website](http://home.earthlink.net/~highying/froggy/froggy.html) containing over 170 verses of the song. 'To croak' is, of course, a euphemism for 'to die'.
 
 !!! lyrics ""
 	> All the livelong day,
