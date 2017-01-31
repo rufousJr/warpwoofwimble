@@ -2,7 +2,7 @@
  > And yes, I do enjoy referring to this massive, sometimes-overwhelming set as HOOM; 
  > it sounds like a supercomputer crossed with a loom crossed with a vacuum cleaner, 
  > which, come to think of it, isn’t a halfway-bad description of Newsom’s brain.
- > <footer><a href=http://www.nj.com/entertainment/music/index.ssf/2010/06/joanna_newsom_--_have_one_on_m.html>link</a></footer>
+ > <footer><a href=http://www.nj.com/entertainment/music/index.ssf/2010/06/joanna_newsom_--_have_one_on_m.html>Review of *Have One On Me* by Tris McCall</a></footer>
 
 Newsom wrote most of the record on piano, an instrument which she admits is not her forte, in hopes of concentrating on melody and chord structure rather than any “athletics or embellishments” of instrumentation. Ironically, she says the project — which clocks in at over two hours — was initially “born out of a desire to make something simple.” But the songs kept coming, and eventually it became clear that they had taken on a life of their own.
 
@@ -54,6 +54,7 @@ http://www.undertheradarmag.com/interviews/joanna_newsom/
 ***
 
 RH How much of a part do you think your personal beauty plays in your vision of life?
+
 JN Well, Roy, the phrasing of your question makes it seem like that beauty thing is a given, which is nice of you, although not necessarily the consensus. Certain aspects of physical appearance are mutable, boiling down to mere decisions, and, to the extent that those decisions operate as elements of an artistic project, I consider them valuable. All my three record covers depicted "me" in an allegorical setting — embroidered, on the first album cover; painted, on the second; and then photographed on the third. In each case, there are factors relating to physical appearance that can be tempered to underscore the spirit of the album and the identity of its narrator. The photo on the cover of Have One on Me was modeled after typical Orientalist fantasy-figure iconography, like an odalisque or a Venus in Furs — a sort of cartoonish amalgamation of feminine signifiers stylized to illustrate the Lacanian idea "Woman is a symptom of man." Annabel Mehran, the photographer, used black-and-white film that the artist Becca Mann later hand-tinted over with watercolors. The idea was to mock-up a shabby, 1920s Parisian studio with an absinthe-dulled lady posing on a divan in bits of old drapery fabric, and then paint over the resulting tableau into some idealized. Technicolor, hedonistic fantasy set. The specifically female, earthbound, corporeal, and decadent character in that album art reflects the character of those songs' narrator as well as the idea of feminine self-diminishment. That was a definite application of the idea of beauty. I don't know whether that specific application could have any reason to occur again for me creatively. I have no idea who the narrator of my next record will be, and whether there will be a clear physical embodiment of that character.
 
 http://bombmagazine.org/article/5106/joanna-newsom
