@@ -33,6 +33,7 @@ There are many interviews and profiles quoted in the 'music' section of this sit
 ## Transcripts ##
 
   + [Joanna Newsom: In Conversation with Dave Eggers]({filename}interviews/eggersnourse.md)
+  + [Joanna Newsom: Berlin 2006]({filename}interviews/berlinohsix.md)
 
 ## Hard-to-find ##
 
