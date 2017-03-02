@@ -2,7 +2,7 @@ Title: Joanna Newsom: In Conversation with Dave Eggers (transcript)
 slug: in-conversation-eggers
 Status: hidden
 
-*What follows is a transcript of an interview Dave Eggers conducted with Joanna Newsom at an event at Nourse Theatre, San Francisco, on May 16th 2016. The event was organised by the San Franciso-based non-profit City Arts & Lectures and was titled "Joanna Newsom: In Conversation with Dave Eggers". The transcript is by no means* verbatim *and has not been proofed -- it is more of a rough reference for the content of the interview. It was made from a broadcast recording, which, sadly, was abridged.* 
+*What follows is a transcript of an interview Dave Eggers conducted with Joanna Newsom at an event at Nourse Theatre, San Francisco, on May 16th 2016. The event was organised by the San Franciso-based non-profit City Arts & Lectures and was titled "Joanna Newsom: In Conversation with Dave Eggers". The transcript is by no means *verbatim* and has not been proofed -- it is more of a rough reference for the content of the interview. It was made from a broadcast recording, which, sadly, was abridged.* 
 
 ----------------------------------------------------
 

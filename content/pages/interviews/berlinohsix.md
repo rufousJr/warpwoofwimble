@@ -2,9 +2,9 @@ Title: Joanna Newsom: Berlin 2006 (transcript)
 slug: berlin-2006
 Status: hidden
 
-*This is a transcription of an interview was uploaded to YouTube under the title [Joanna Newsom Interview - Berlin 2006](https://www.youtube.com/watch?v=YzZ5u65MpjI). The video was uploaded on 31st January 2016 by a user apparently unconnected to its origin. Two off-camera voices conduct the interview, and since one sounds to be a German man  and the other an American woman, I have denoted their parts by the letters 'DE' and 'US' respectively. I would be interested to hear from anyone who knows of the origins of the video, or perhaps has noticed any similarities between its content and any another contemporary interview.
+*This is a transcription of an interview was uploaded to YouTube under the title [Joanna Newsom Interview - Berlin 2006](https://www.youtube.com/watch?v=YzZ5u65MpjI). The video was uploaded on 31st January 2016 by a user apparently unconnected to its origin. Two off-camera voices conduct the interview, and since one sounds to be a German man  and the other an American woman, I have denoted their parts by the letters 'DE' and 'US' respectively. I would be interested to hear from anyone who knows of the origins of the video, or perhaps has noticed any similarities between its content and any another contemporary interview.*
 
-NB like the [In Conversation interview]({filename}eggersnourse.md), this transcript is meant as a rough, unproofed reference -- not an accurate *verbatim*.*
+*NB like the [In Conversation interview]({filename}eggersnourse.md), this transcript is meant as a rough, unproofed reference -- not an accurate *verbatim*.*
 
 ***
 
