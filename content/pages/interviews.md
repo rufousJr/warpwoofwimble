@@ -28,7 +28,7 @@ There are many interviews and profiles quoted in the 'music' section of this sit
 
 # Other interviews #
 
- + link to Pinboard
+A comprehensive archive of known-to-me interviews can be found on the [site's Pinboard page](https://pinboard.in/u:rufousii). Below is the catalogue of interviews hosted locally.
 
 ## Transcripts ##
 
