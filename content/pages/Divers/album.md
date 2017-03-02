@@ -26,14 +26,17 @@ Outtake annotations:
 
 # Production #
 
-Newsom took a much larger role in the production of this album, the first for which she was involved in the mixing. The mixing took six months, and the album was mastered eleven times.[^rookie] "I had a really strong opinion about every note, every beat, every word."[^latimes] Several of the production team and musicans on the record have been credited on other Newsom albums too. Newsom mentions the recording process in a Guardian interview,[^guardian] and it is covered in great depth in an interview with Stereophile entitled [Joanna Newsom, Kingdom of the Harp][stereophile].
+Newsom took a much larger role in the production of this album, the first for which she was involved in the mixing. The mixing took six months, and the album was mastered eleven times.[^rookie] "I had a really strong opinion about every note, every beat, every word."[^latimes] Newsom mentions the recording process in a Guardian interview,[^guardian] and it is covered in great depth in an interview with Stereophile entitled [Joanna Newsom, Kingdom of the Harp][stereophile].
+
+The album features a large cast of collaborators -- some familiar and some novel -- giving the album's songs the quality of "vignettes".
+
+> I thought of the songs on *Divers* as each running a leg of a relay, that, if it were retraced, would describe, in relief, the shape of what the album was about. [...] I wanted there to be a fundamental character difference, where they feel like different vignettes. And I felt like one way to achieve that would be to have different compositional voices overlaid to contrast against the thing that connects all the songs to each other."[^eggers]
 
 Though the album features an eclectic mix of instruments, the only voices on the album are those of birds and of Newsom. This latter was often duplicated to make a "chorus of Joanna Newsoms". According to Newsom, this "was a choice for this record. ...In 'Waltz of the 101st Lightborne',... that's sort of the horror/sci-fi version of doubling and there's constant references to the doubling of the self and the halving of the self, the binary of the self throughout the record... ."[^paste]
 
 [^rookie]:[Rookie Magazine, issue 50 (2015)][rookie]
 [^latimes]:[LA Times, October 2015][latimes]
 [^guardian]:[Guardian, October 2015][guardian]
-
 
 # Album artwork, aesthetic and physical copies #
 
@@ -46,7 +49,9 @@ Newsom's collaborator for the photography of this album, Annabel Mehran, reporte
 
 The album cover is *Wildflowers 52i* by Kim Keever. In the liner notes, the title page preceding each song's lyrics is printed alongside a different piece by Keever. (The titles of these pieces are listed at the end of the booklet.) Keever and Newsom also collaborated on the music video for "Divers", which was shot in Keever's studio.
 
-Newsom says she first came across Keever's work "five or six years ago [while] walking around in New York City."[^rookie] She owns his piece *West 104k*, which faces "Sapokanikan" in the lyrics booklet. Keever was interviewed by The 405 in relation to his Wildflowers series in [Behind the Artwork: Joanna Newsom's Divers][the405]. He is also briefly profiled in Uncut in relation to the album.[^uncut]
+Newsom says she first came across Keever's work "five or six years ago [while] walking around in New York City."[^rookie] She owns his piece *West 104k*, which faces "Sapokanikan" in the lyrics booklet. Newsom: "I felt like [Keever's work] was intimately tied for me with the world I was trying to describe. There's a very similar 'zoomed-out' quality -- he does a lot of landscapes and they're either post-apocalyptic or pre-human in some way."[^eggers]
+
+Keever was interviewed by The 405 in relation to his Wildflowers series in [Behind the Artwork: Joanna Newsom's Divers][the405]. He is also briefly profiled in Uncut in relation to the album.[^uncut]
 
 [^uncut]:Uncut Magazine, November 2015
 
@@ -66,6 +71,8 @@ The vinyl (double LP) album is notable for having inscriptions on each side.[^di
 ## Outtakes ##
 
 The missing song mentioned by Newsom in interviews turned out to be "Making Hay", which was released by Drag City a year after the album's launch. It sounds to be a demo version, similar to the demo version of "Anecdotes", which surfaced some months after the release of the album and which also lacks the high level of production and complex instrumentation heard on the album.
+
+[^eggers]: [Joanna Newsom: In Conversation With Dave Eggers]({filename}../interviews/eggersnourse.md)
 
 [vogue]: http://www.vogue.com/13364488/joanna-newsom-divers-profile/
 [rookie]: http://www.rookiemag.com/2015/10/joanna-newsom-interview/
