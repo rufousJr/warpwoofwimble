@@ -1,4 +1,6 @@
 Title: Interviews
+Summary: A list of recommended interviews; a catalogue of locally-hosted interviews
+Status: published
 Slug: interviews
 
 # Key interviews #
@@ -38,6 +40,7 @@ A comprehensive archive of known-to-me interviews can be found on the [site's Pi
 ## Hard-to-find ##
 
  + [milkymoon's interview with Benjamin Vierling]({filename}interviews/vierling.md)
+ + [Plan B magazine gig review and interview]({filename}interviews/planb.md)
 
 
 

@@ -1,6 +1,6 @@
 Title: Books and more
-Status: published
 Summary: Books, documentaries, academic papers and other hard-to-find works
+Status: published
 Slug: books
 
 This page is intended as a list of works that prominently feature Joanna Newsom and are hard to find through an internet search, maybe because they are behind a paywall or because they don't officially exist online.
@@ -38,7 +38,7 @@ This is a list of features that are paywalled or otherwise unavailable online.
  * The Face Vol. 3 #68, September 2002
  * Bay Area Buzz, May/June 2003
  * Boston Globe, June 2004
- * Plan B magazine #0.5, November 2004 ([pdf]({filename}/pdfs/planb-issue0.5.pdf)[^planb])
+ * Plan B magazine #0.5, November 2004 ([local copy]({filename}interviews/planb.md))
  * Venus Zine #22, Winter 2004
  * The Wire #251, January 2005
  * Under the Radar #15, Fall 2006
@@ -53,8 +53,7 @@ This is a list of features that are paywalled or otherwise unavailable online.
 ## Features ##
 
  * Spin, June 2004 (Dave Eggers)[^spin]
- 
-[^planb]: the entire run of Plan B was distributed online by Everett True, one of the editors, some years after the magazine closed down, so I figure hosting this here is okay
+
 [^spin]: [available on Google Books](https://books.google.co.uk/books?id=UAUQ04BGfpUC&lpg=PA60&ots=c2Zx8h9atL&dq=spin%20newsom%20eggers&pg=PA60#v=onepage&q&f=false) at time of writing (July '16)
 
 
