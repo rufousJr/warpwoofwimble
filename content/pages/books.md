@@ -23,11 +23,13 @@ This page is intended as a list of works that prominently feature Joanna Newsom 
 
 [imdb-fj]: http://www.imdb.com/title/tt1600060/
 
-# Academic papers #
+# Academic papers and periodicals #
 
  * 'The Wild Blue Yonder Looms': Joanna Newsom's wildness. Claire Coleman. Social Alternatives, Vol. 33, No. 1 (2014). [Article on Questia][questia-coleman]
 
 [questia-coleman]: https://www.questia.com/library/journal/1P3-3340781411/the-wild-blue-yonder-looms-joanna-newsom-s-wildness
+
+ * Joyce Smithy: A Curated Review of Joyce in Visual Art, Music, and Performance. Ollie Evans, Christa-Maria Lerm Hayes, Derek Pyle. James Joyce Quarterly, Vol. 52, No. 1 (Fall 2014). [Issue on Project Muse](https://muse.jhu.edu/issue/35720)
 
 # Magazines #
 
