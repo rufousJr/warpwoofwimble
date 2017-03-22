@@ -29,9 +29,10 @@ This perhaps places the "river" mentioned in the song as the southwestern US Roa
 Perhaps an allusion to the traditional song, "Frog Went a-Courtin'". As a reassurance that this site is nowhere near the most niche on the Internet, I would recommend [David Highland's website](http://home.earthlink.net/~highying/froggy/froggy.html) containing over 170 verses of the song. 'To croak' is, of course, a euphemism for 'to die'.
 
 !!! lyrics ""
-	> All the livelong day,
+	> All the livelong day,  
+	> if I have my way, I will love you.
 
-Perhaps an allusion to another traditional song, "I've Been Working on the Railroad".
+Perhaps an allusion to a standard of the 60s folk revival, "Ribbon Bow" (see ["Ribbow Bows"]({filename}../three/ribbonbows.md)), or another traditional song, "I've Been Working on the Railroad".
 
 !!! lyrics ""
 	> But, like a Bloody Mary,  
