@@ -10,7 +10,7 @@ Release: Have One On Me
 	> squatting, lordly, on a stool, in a stall,  
 	> we spun gold clear out of straw.
 
-There are two possible references to fairytales in the song. The line "I have slept for forty years" evokes *Sleeping Beauty*, while the lines quoted above are a clear reference to *Rumpelstiltskin*.
+There are two possible references to fairytales in the song. The line "I have slept for forty years" evokes *Sleeping Beauty* (and *Rip van Winkle*), while the lines quoted above are a clear reference to *Rumpelstiltskin*.
 
 !!! lyrics ""
 	> and woke to find me gone.

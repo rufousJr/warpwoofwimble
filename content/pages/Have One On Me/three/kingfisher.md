@@ -7,6 +7,8 @@ According to Newsom, this song was one of the first to be written after *Ys*:
 >
 > I started "Kingfisher" sometime between when I recorded *Ys* and when the album came out. And I remember writing the instrumental part to "Have One On Me" on a big old beautiful grand piano in the Sear Sound studio, in New York, while Jim O'Rourke was observing his monastic session of solitary *Ys* mixing, and I was waiting to be let back in the room.[^source]
 
+# Annotations #
+
 [^source]: ["Joanna Newsom: The Siren's Song"](http://americansongwriter.com/2010/09/joanna-newsom-the-sirens-song/), *American Songwriter*, Evan Schlansky, Sep 2010
 
 !!! "" lyrics
@@ -30,7 +32,7 @@ It is possible that the sense of 'eye' meant here is 'a small metal loop' -- rel
     > 
     > kingfisher, lie with the lion.
 
-Two common interpretations of this song link it with the Fisher King of Arthurian legend and the Pompeii tragedy; the concluding line of the song makes clear the allusion (hinted at in earlier lines) to the famous verses from Isaiah 11:
+The concluding line of the song makes clear the allusion (hinted at in earlier lines) to the famous verses from Isaiah 11:
 
 > **6** "The wolf shall also dwell with the lamb,  
 > The leopard shall lie down with the young goat,  
@@ -44,3 +46,7 @@ Two common interpretations of this song link it with the Fisher King of Arthuria
 > **9** They shall not hurt nor destroy all in My holy mountain.  
 > For the earth shall be full of the knowledge of the Lord  
 > As the waters cover the sea.
+
+## The kingfisher ##
+
+Interpretations of this song often link it with the Pompeii tragedy and modern man's reproductions in the form of the atom bomb. With regard to the eponymous Kingfisher, some proposed identities include: the Fisher King of Arthurian legend; Jesus, the 'fisher of men'; and Alcyone of Greek mythology, who is (in Greek) the namesake of the kingfisher.

@@ -11,12 +11,13 @@ In the lyrics booklet, the text of a significant number of lines are italicised,
 
 ## Lola Montez ##
 
-The song is largely a series of allusions to the life of dancer and courtesan Lola Montez. Newsom has long found interest in Montez:
+The song is largely a series of allusions to the life of dancer and courtesan Lola Montez[^bio]. Newsom has long found interest in Montez:
 
 > **You grew up in Nevada City, California, a small Gold Rush town.**
 >
 > It’s a really, really strange town. Basically every building there has been there since the Gold Rush. There’s still stages around that had a lot of Gold Rush-era performers come through, people like Lola Montez and Lala Crabtree and Mark Twain. There’s miles of boarded-up mines and tunnels. And in downtown Nevada City, there’s a network of tunnels that had to do with a system of brothels that existed during the Gold Rush. I worked in a coffeehouse downtown, which was located right above this hive of little tunnels, and it was definitely haunted. Pretty much everyone who worked there would see the ghosts of Gold Rush whores. I’m convinced I saw one.[^arthur]
 
+[^bio]: [Montez's entry](http://adb.anu.edu.au/biography/montez-lola-4226) in the Australian Dictionary of Biography is a good starting point
 [^arthur] : [Forty-Six Strings and Some Truth, Arthur Magazine No. 10](https://arthurmag.com/2010/01/28/forty-six-strings-and-some-truths-a-conversation-with-joanna-newsom-2004/)
 
 In fact, the city of Grass Valley, where Newsom was born (and indeed is the location of Station to Station, the recording studio where some of *Have One On Me* was laid down), was the residence of Lola Montez between 1853 and 1855. Her house remains a California Historical Landmark.
@@ -38,6 +39,25 @@ Newsom expressed some thoughts on the song's title and its position as the title
 ## Billy Joel ##
 
 !!! lyrics ""
-> Bottle of white, bottle of red.
+    > Bottle of white, bottle of red.
 
 Jody Rosen, for the *New York Times*, wrote, "[Newsom] calls *Have One on Me*... her 'early '70s California singer-songwriter album,' citing influences like Joni Mitchell's *For the Roses* and Graham Nash's *Songs for Beginners*."[^nyt] It has been suggested that this song bears resemblance to the 1977 Billy Joel song, "Scenes from an Italian Restaurant".
+
+## Religion ##
+
+Newsom uses several religious cliches and Biblical stock phrases throughout the narration. Whereas the Biblical book of Matthew is explicitly mentioned in ["Jackrabbits"]({filename}..\two\jackrabbits.md), consciously or no, Matthew's words are also used in this song.
+
+!!! lyrics ""
+    > "In your heart is all that you need;  
+    > ask and you will receive," it is said.
+
+The quotation marks and the declaration that 'it is said' implies that Newsom is imitating devout Christians' habits of quoting scripture with a similar idiom. "Ask and you will receive" is a saying of Jesus' found in Matthew 7:7:
+
+> **7** "Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you.  
+> **8** "For everyone who asks receives, and he who seeks finds, and to him who knocks it will be opened."
+
+Slightly earlier, in Matthew 6:19-21, Jesus says:
+
+> **19** "Do not lay up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal.  
+> **20** "but lay up for yourselves treasures in heaven, where neither moth nor rust destroys and thieves do not break in and steal.  
+> **21** "For where your treasure is, there your heart will be also."

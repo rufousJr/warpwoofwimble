@@ -1,6 +1,8 @@
 Title: Baby Birch
 Release: Have One On Me
 
+The lyrics booklet contains two significant omissions in comparison with the album recording: firstly, the lines "but , you know, I hated to close / the door on you" are sung as "but, you know, I hated to close the doggone door on you"; secondly, the end of the recording features Newsom singing twice the line "be at peace baby and be gone", but this is not in the lyrics booklet.
+
 # Annotations #
 
 This song has often been interpreted as covering themes of pregnancy and motherhood, a reading perhaps inspired in part by the phrase "rabbit test", which began as the common name for a pregnancy test in the 1930s but later became a euphemism for pregnancy tests in general.
