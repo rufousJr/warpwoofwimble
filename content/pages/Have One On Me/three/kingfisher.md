@@ -11,7 +11,7 @@ According to Newsom, this song was one of the first to be written after *Ys*:
 
 [^source]: ["Joanna Newsom: The Siren's Song"](http://americansongwriter.com/2010/09/joanna-newsom-the-sirens-song/), *American Songwriter*, Evan Schlansky, Sep 2010
 
-!!! "" lyrics
+!!! lyrics ""
     > Blows rained upon the one you loved,    
     > and, thought you were only sparring,  
     > there's blood on the eye.  
@@ -20,7 +20,7 @@ According to Newsom, this song was one of the first to be written after *Ys*:
 
 It is possible that the sense of 'eye' meant here is 'a small metal loop' -- related to the definition of 'eyelet': a small round hole made in leather or cloth, used for threading a lace, string or rope through (OED).
 
-!!! "" lyrics
+!!! lyrics ""
     > And, for the sake of that pit of snakes,  
     > 
     > ...
@@ -47,6 +47,6 @@ The concluding line of the song makes clear the allusion (hinted at in earlier l
 > For the earth shall be full of the knowledge of the Lord  
 > As the waters cover the sea.
 
-## The kingfisher ##
+## Identity of 'kingfisher' ##
 
-Interpretations of this song often link it with the Pompeii tragedy and modern man's reproductions in the form of the atom bomb. With regard to the eponymous Kingfisher, some proposed identities include: the Fisher King of Arthurian legend; Jesus, the 'fisher of men'; and Alcyone of Greek mythology, who is (in Greek) the namesake of the kingfisher.
+Interpretations of this song often link it with the Pompeii tragedy and modern man's reproductions thereof in the form of the atom bomb. With regard to the eponymous Kingfisher, some proposed identities include: the Fisher King of Arthurian legend; Jesus, the 'fisher of men'; and Alcyone of Greek mythology, who is (in Greek) the namesake of the kingfisher.

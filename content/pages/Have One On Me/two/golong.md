@@ -1,6 +1,8 @@
 Title: Go Long
 Release: Have One On Me
 
+## Bluebeard ##
+
 !!! lyrics ""
     > Run away from home--  
     > Your beard is still blue
@@ -13,12 +15,6 @@ The song contains several allusions to the folk tale of Bluebeard, to the extent
 [4]: http://allthebirds.tumblr.com/post/23938968176/the-bloody-chamber-by-angela-carter-and-go
 
 !!! lyrics ""
-    > In the middle of the woods  
-    > (which were the probable cause),
-
-"Probable cause" is a legal term meaning evidence that a crime is being committed.   
-
-!!! lyrics ""
     > Now, though I die,  
     > Magpie, this I bequeath:  
     > by any other name,  
@@ -27,7 +23,15 @@ The song contains several allusions to the folk tale of Bluebeard, to the extent
 In this part of the Bluebeard story, the words echo the famous lines from Shakespeare's *Romeo and Juliet* (II, ii, 43):
 
 > What's in a name? That which we call a rose    
-> By any other word would smell as sweet. 
+> By any other word would smell as sweet.
+ 
+## Other notes ##
+
+!!! lyrics ""
+    > In the middle of the woods  
+    > (which were the probable cause),
+
+"Probable cause" is a legal term meaning evidence that a crime is being committed.   
 
 !!! lyrics ""
     > There's a man  

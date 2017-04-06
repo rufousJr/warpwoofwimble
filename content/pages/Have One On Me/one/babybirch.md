@@ -7,11 +7,11 @@ The lyrics booklet contains two significant omissions in comparison with the alb
 
 This song has often been interpreted as covering themes of pregnancy and motherhood, a reading perhaps inspired in part by the phrase "rabbit test", which began as the common name for a pregnancy test in the 1930s but later became a euphemism for pregnancy tests in general.
 
-Animals feature often in Newsom's songs, and one is led to wonder if the "dirty lake" is not a cousin of the "looming lake" from the *Ys* opener, ["Emily"]({filename}../../Ys/emily.md). Even more compelling is "goose, cussing at me over her eggs", which the listener cannot consider without recalling the "scrambling of broken hopes, and goose eggs" that occurs in the *Divers* track, ["Goose Eggs"]({filename}../../Divers/gooseeggs.md).
+Animals feature often in Newsom's songs, and one is led to wonder if the "dirty lake" is not a cousin of the "looming lake" from the *Ys* opener, ["Emily"]({filename}../../Ys/emily.md). Even more compelling is "goose, cussing at me over her eggs", which the listener cannot consider without recalling the "scrambling of broken hopes, and goose eggs" that is talked of in the *Divers* track, ["Goose Eggs"]({filename}../../Divers/gooseeggs.md).
 
 ## Showbusiness ##
 
-!!! "" lyrics
+!!! lyrics ""
 > Do you remember staring,  
 > up at the stars,  
 > so far away in their bulletproof cars?
@@ -20,7 +20,7 @@ The "bulletproof cars" reveal the presence of an earlier pun made from two defin
 
 ## Engine breaks ##
 
-!!! "" lyrics
+!!! lyrics ""
 > We heard the rushing, slow intake  
 > of the dark, dark water,  
 > and the engine breaks,
@@ -29,7 +29,7 @@ Much ink has been spilled in debating the correct reading of these lines, especi
 
 ## Children's rhymes ##
 
-!!! "" lyrics
+!!! lyrics ""
 > *And, if I should die before I wake,*  
 > *will you keep an eye on Baby Birch?*
 
@@ -40,7 +40,7 @@ This is a borrowing from the children's prayer known as "Now I Lay Me Down to Sl
 > If I should die before I wake,  
 > I pray the Lord my soul to take.
 
-!!! "" lyrics
+!!! lyrics ""
 > told her, "wherever you go,  
 > little runaway bunny,  
 > I will find you."  

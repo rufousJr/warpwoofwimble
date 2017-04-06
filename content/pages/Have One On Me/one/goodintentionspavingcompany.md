@@ -7,7 +7,7 @@ The title of the song is a riff on the proverb, "the road to hell is paved with 
 
 > "The Good Intentions Paving Company" is a phrase attributable to the novelist Saul Bellow, from [a letter to fellow novelist Philip Roth][nyr][^letter]. Bellow is referring to well-meaning literary journalists and interviewers (who nonetheless have 'fucked up again'), but the phrase becomes applicable to all manner of agents and institutions, such as governments, healthcare providers, and universities.
 >
-> Whether the phrase originates with Bellow seems disputable: the author of [this article][wsj] claims to have heard it from Bellow's mouth itself, but still 'do[es't] know that Bellow invented the term'. There doesn’t seem to be any record online of Joanna Newsom mentioning Bellow, even though she is widely known to be well-read and to have found inspiration in literature.[^genius]
+> Whether the phrase originates with Bellow seems disputable: the author of [this article][wsj] claims to have heard it from Bellow's mouth itself, but still 'doesn't know that Bellow invented the term'. There doesn’t seem to be any record online of Joanna Newsom mentioning Bellow, even though she is widely known to be well-read and to have found inspiration in literature.[^genius]
 
 [^letter]: The letter reads in full:
 > January 7, 1984, Chicago 
@@ -17,16 +17,18 @@ The title of the song is a riff on the proverb, "the road to hell is paved with 
 
 [^genius]: ["Good Intentions Paving Company" on Genius.com](https://genius.com/Joanna-newsom-good-intentions-paving-company-lyrics)
 
+## Contentious words ##
+
 [nyr]: http://www.newyorker.com/magazine/2010/04/26/among-writers
 [wsj]: http://www.wsj.com/articles/SB10001424052702304020704579276942556236158
 
-!!! "" lyrics
+!!! lyrics ""
 	> and cry for no good reason  
 	> at the Eastering sky.
 	
 "Eastering" could have two meanings here: as an adjective, "eastering" is defined as "that is moving eastward", but it could also be the adjectival form of the noun, "Eastering",  meaning "the action or practice of celebrating Easter" (OED).
 
-!!! "" lyrics
+!!! lyrics ""
 	> Well I saw straightaway  
 	> that the lay was steep,  
 	> but I fell for you, honey,  
@@ -36,7 +38,7 @@ The title of the song is a riff on the proverb, "the road to hell is paved with 
 
 ## Allusions to other songs ##
 
-!!! "" lyrics
+!!! lyrics ""
 	> It had a nice ring to it,  
 	> when the old opry house rang  
 	> so, with a solemn *auld lang*  
@@ -45,7 +47,7 @@ The title of the song is a riff on the proverb, "the road to hell is paved with 
 	
 This is a pun on two well-known songs: "Auld Lang Syne", originally a poem by Robert Burns, and "Signed, Sealed, Delivered I'm Yours" by Stevie Wonder.
 
-!!! "" lyrics
+!!! lyrics ""
 	> you ranged real hot and real cold,  
 	> but I'm sold.  
 	> I am at home on that range.
@@ -54,7 +56,7 @@ These later lines could be meant to evoke the country standard, "Home on the Ran
 
 ## Show business ##
 
-!!! "" lyrics
+!!! lyrics ""
 	> Twenty miles left to the show.  
 	> Hello, my old country. Hello.  
 	> Stars are just beginning to appear,  

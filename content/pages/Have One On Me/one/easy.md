@@ -6,7 +6,7 @@ Release: Have One On Me
 !!! lyrics ""
 	> who will harvest what we have sewn
 
-Whether "sewn" is a misprint of "sown", or a pun, is uncertain. Either way, the line is a paraphrase of St Paul's proverb from Galatians 6:7, which Newsom also considered in the out-take from *Divers*, ["Make Hay"]({filename}../Divers/makehay.md).
+Whether "sewn" is a misprint of "sown", or a pun, is uncertain. Either way, the line is a paraphrase of St Paul's proverb from Galatians 6:7, which Newsom also considered in the out-take from *Divers*, ["Make Hay"]({filename}../../Divers/makehay.md).
 
 !!! lyrics ""
 	> pluck every last daisy clean,  

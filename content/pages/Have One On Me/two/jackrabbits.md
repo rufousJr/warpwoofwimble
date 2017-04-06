@@ -14,3 +14,5 @@ And the "low-down flame" evokes the parable of the lamp under the bushel, recoun
 > **14** "You are the light of the world. A city that is set on a hill cannot be hidden.  
 > **15** "Nor do they light a lamp and put it under a basket, but on a lampstand, and it gives light to all who are in the house.  
 > **16** "Let your light so shine before men, that they may see your good works and glorify your Father in heaven."
+
+For more on *Have One On Me* and *Matthew*, see ["Have One On Me"]({filename}../one/haveoneonme.md).

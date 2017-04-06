@@ -54,7 +54,7 @@ Newsom's collaborator for the photography of this album, Annabel Mehran, reporte
 
 The album cover is *Wildflowers 52i* by Kim Keever. In the liner notes, the title page preceding each song's lyrics is printed alongside a different piece by Keever. (The titles of these pieces are listed at the end of the booklet.) Keever and Newsom also collaborated on the music video for "Divers", which was shot in Keever's studio.
 
-Newsom says she first came across Keever's work "five or six years ago [while] walking around in New York City."[^rookie] She owns his piece *West 104k*, which faces "Sapokanikan" in the lyrics booklet. Keever was interviewed by *The 405* in relation to his Wildflowers series in [Behind the Artwork: Joanna Newsom's Divers](http://www.thefourohfive.com/music/article/behind-the-artwork-joanna-newsom-s-divers-144). He is also briefly profiled in Uncut in relation to the album.[^uncut]
+In contrast to the artwork of earlier albums, which were commissioned, *Divers*' Keever pieces were 'off-the-peg'. Newsom says she first came across Keever's work "five or six years ago [while] walking around in New York City."[^rookie] She owns his piece *West 104k*, which faces "Sapokanikan" in the lyrics booklet. Keever was interviewed by *The 405* in relation to his Wildflowers series in [Behind the Artwork: Joanna Newsom's Divers](http://www.thefourohfive.com/music/article/behind-the-artwork-joanna-newsom-s-divers-144). He is also briefly profiled in Uncut in relation to the album.[^uncut]
 
 [^uncut]:Uncut Magazine, November 2015
 

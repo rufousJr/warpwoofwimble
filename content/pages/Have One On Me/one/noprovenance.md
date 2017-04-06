@@ -1,7 +1,7 @@
 Title: No Provenance
 Release: Have One On Me
 
- # Annotations #
+# Annotations #
 
 ## Fantasy, fairytale and folklore ##
 
@@ -34,4 +34,6 @@ In the song's final section, the subject is addressed as "pretty Johnny Applesee
 	> her faultlessly etiolated fishbelly-face:  
 	> the muzzle of a ghost.
 
-The quoted lines share ground with Nabokov's novel, *Lolita*, which Newsom describes as an enduring influence on her work. One finds correspondence between Humbert Humbert's 'McFate' and the treatment of fate here -- in Nabokov's own afterword to the novel, he writes of needing to obtain "such local ingredients as would allow me to inject a modicum of "reality" (one of the few words which mean nothing without quotes) into the brew of individual fancy". Inasmuch as a single word can be described as Nabokovian, 'etiolated' is perhaps a candidate; indeed, it appears on p. 4 of *Lolita*, in the foreword, where it is used in a metaphorical sense to mean something like 'purged of overt eroticism'.
+The quoted lines share ground with Nabokov's novel, *Lolita*, which Newsom describes as an enduring influence on her work. One finds correspondence between Humbert Humbert's 'McFate' and the treatment of fate here -- in Nabokov's own afterword to the novel, he writes of needing to obtain "such local ingredients as would allow me to inject a modicum of "reality" (one of the few words which mean nothing without quotes) into the brew of individual fancy".
+
+Inasmuch as a single word can be described as Nabokovian, 'etiolated' is perhaps a candidate; indeed, it appears on p. 4 of *Lolita*, in the foreword, where it is used in a metaphorical sense to mean something like 'purged of overt eroticism'.

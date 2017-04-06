@@ -1,30 +1,31 @@
 Title: Have One On Me
 Release: Have One On Me
 
-According to Newsom, the instrumental part of this song was written "on a big old beautiful grand piano in the Sear Sound studio, in New York, while Jim O'Rourke was observing his monastic session of solitary *Ys* mixing, and I was waiting to be let back in the room."
-
-http://americansongwriter.com/2010/09/joanna-newsom-the-sirens-song/
+According to Newsom, the instrumental part of this song was written "on a big old beautiful grand piano in the Sear Sound studio, in New York, while Jim O'Rourke was observing his monastic session of solitary *Ys* mixing, and I was waiting to be let back in the room."[^amsong]
 
 In the lyrics booklet, the text of a significant number of lines are italicised, which might aid some listeners in their appreciation of the narrative.
+
+[^amsong]: [Joanna Newsom: The Siren's Song](http://americansongwriter.com/2010/09/joanna-newsom-the-sirens-song/), Evan Schlansky, American Songwriter, Sep. 2010
 
 # Annotations #
 
 ## Lola Montez ##
 
-The song is largely a series of allusions to the life of dancer and courtesan Lola Montez[^bio]. Newsom has long found interest in Montez:
+The song is largely a series of allusions to the life of dancer and courtesan Lola Montez.[^bio] Newsom has long found interest in Montez:
 
 > **You grew up in Nevada City, California, a small Gold Rush town.**
 >
 > It’s a really, really strange town. Basically every building there has been there since the Gold Rush. There’s still stages around that had a lot of Gold Rush-era performers come through, people like Lola Montez and Lala Crabtree and Mark Twain. There’s miles of boarded-up mines and tunnels. And in downtown Nevada City, there’s a network of tunnels that had to do with a system of brothels that existed during the Gold Rush. I worked in a coffeehouse downtown, which was located right above this hive of little tunnels, and it was definitely haunted. Pretty much everyone who worked there would see the ghosts of Gold Rush whores. I’m convinced I saw one.[^arthur]
 
 [^bio]: [Montez's entry](http://adb.anu.edu.au/biography/montez-lola-4226) in the Australian Dictionary of Biography is a good starting point
-[^arthur] : [Forty-Six Strings and Some Truth, Arthur Magazine No. 10](https://arthurmag.com/2010/01/28/forty-six-strings-and-some-truths-a-conversation-with-joanna-newsom-2004/)
+
+[^arthur] : [Forty-Six Strings and Some Truth](https://arthurmag.com/2010/01/28/forty-six-strings-and-some-truths-a-conversation-with-joanna-newsom-2004/), Arthur Magazine No. 10, April 2004
 
 In fact, the city of Grass Valley, where Newsom was born (and indeed is the location of Station to Station, the recording studio where some of *Have One On Me* was laid down), was the residence of Lola Montez between 1853 and 1855. Her house remains a California Historical Landmark.
 
 > This record deals a lot with the idea of home and hometown. People have described me as being so informed by the nature and the magic of this place. I think on this album I’m exploring that — I’m working through that idea. There’s a lot of mythologizing of Nevada City as this utopian magical hippieland.[^nyt]
 
-[^nyt] : [Joanna Newsom, the Changeling](http://www.nytimes.com/2010/03/07/magazine/07Newsom-t.html?_r=1&pagewanted=all&)
+[^nyt] : [Joanna Newsom, the Changeling](http://www.nytimes.com/2010/03/07/magazine/07Newsom-t.html?_r=1&pagewanted=all&), Jody Rosen, New York Times, March 2010
 
 ## As title track ##
 
