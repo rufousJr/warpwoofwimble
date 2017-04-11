@@ -15,17 +15,15 @@ The song is largely a series of allusions to the life of dancer and courtesan Lo
 
 > **You grew up in Nevada City, California, a small Gold Rush town.**
 >
-> It’s a really, really strange town. Basically every building there has been there since the Gold Rush. There’s still stages around that had a lot of Gold Rush-era performers come through, people like Lola Montez and Lala Crabtree and Mark Twain. There’s miles of boarded-up mines and tunnels. And in downtown Nevada City, there’s a network of tunnels that had to do with a system of brothels that existed during the Gold Rush. I worked in a coffeehouse downtown, which was located right above this hive of little tunnels, and it was definitely haunted. Pretty much everyone who worked there would see the ghosts of Gold Rush whores. I’m convinced I saw one.[^arthur]
-
-[^bio]: [Montez's entry](http://adb.anu.edu.au/biography/montez-lola-4226) in the Australian Dictionary of Biography is a good starting point
-
-[^arthur] : [Forty-Six Strings and Some Truth](https://arthurmag.com/2010/01/28/forty-six-strings-and-some-truths-a-conversation-with-joanna-newsom-2004/), Arthur Magazine No. 10, April 2004
+> It's a really, really strange town. Basically every building there has been there since the Gold Rush. There's still stages around that had a lot of Gold Rush-era performers come through, people like Lola Montez and Lala Crabtree and Mark Twain. There's miles of boarded-up mines and tunnels. And in downtown Nevada City, there's a network of tunnels that had to do with a system of brothels that existed during the Gold Rush. I worked in a coffeehouse downtown, which was located right above this hive of little tunnels, and it was definitely haunted. Pretty much everyone who worked there would see the ghosts of Gold Rush whores. I'm convinced I saw one.[^arthur]
 
 In fact, the city of Grass Valley, where Newsom was born (and indeed is the location of Station to Station, the recording studio where some of *Have One On Me* was laid down), was the residence of Lola Montez between 1853 and 1855. Her house remains a California Historical Landmark.
 
-> This record deals a lot with the idea of home and hometown. People have described me as being so informed by the nature and the magic of this place. I think on this album I’m exploring that — I’m working through that idea. There’s a lot of mythologizing of Nevada City as this utopian magical hippieland.[^nyt]
+> This record deals a lot with the idea of home and hometown. People have described me as being so informed by the nature and the magic of this place. I think on this album I’m exploring that -- I’m working through that idea. There’s a lot of mythologizing of Nevada City as this utopian magical hippieland.[^nyt]
 
-[^nyt] : [Joanna Newsom, the Changeling](http://www.nytimes.com/2010/03/07/magazine/07Newsom-t.html?_r=1&pagewanted=all&), Jody Rosen, New York Times, March 2010
+[^bio]: [Montez's entry](http://adb.anu.edu.au/biography/montez-lola-4226) in the Australian Dictionary of Biography is a good starting point
+
+[^arthur] : [Forty-Six Strings and Some Truths](https://arthurmag.com/2010/01/28/forty-six-strings-and-some-truths-a-conversation-with-joanna-newsom-2004/), Arthur Magazine No. 10, April 2004
 
 ## As title track ##
 
@@ -35,7 +33,7 @@ Newsom expressed some thoughts on the song's title and its position as the title
 >
 > Well, on one level there was a tonal decision to choosing the title that has a relationship with the tone of the record. ... And then the title is meant to point at the title track as the sort of central thematic message of the record. ...
 > 
-> It also refers to a kind of self-sacrifice that is a theme in a lot of the songs. It's a very feminine thing as well. It's the giving of yourself in those drinking terms, like pouring something from a bottle, and the level of the wine goes down and down and down with each glass that you pour and hand out. And it relates to the title track because that's sort of essentially what I saw in Lola Montez's life [Lola being the dancer who was the mistress of the King Of Bavaria, who ultimately lived and died an outcast in America, who is the subject of your title track and Newsom seems to be referring to in the album inlay photographs.] This constant wandering and diminishment of the self through the giving of the self, through performing, and just as the myth grew, the self shrunk until she just died poverty stricken and alone with pneumonia, being cared for by Jesuit priests that she hated. And having these affairs with these incredibly important powerful men, none of who took care of her. The way women were, and the way women are in that sense, is fundamental.
+> It also refers to a kind of self-sacrifice that is a theme in a lot of the songs. It's a very feminine thing as well. It's the giving of yourself in those drinking terms, like pouring something from a bottle, and the level of the wine goes down and down and down with each glass that you pour and hand out. And it relates to the title track because that's sort of essentially what I saw in Lola Montez's life: this constant wandering and diminishment of the self through the giving of the self, through performing, and just as the myth grew, the self shrunk until she just died poverty stricken and alone with pneumonia, being cared for by Jesuit priests that she hated. And having these affairs with these incredibly important powerful men, none of who took care of her. The way women were, and the way women are in that sense, is fundamental.
 
 ## Billy Joel ##
 
@@ -43,6 +41,8 @@ Newsom expressed some thoughts on the song's title and its position as the title
     > Bottle of white, bottle of red.
 
 Jody Rosen, for the *New York Times*, wrote, "[Newsom] calls *Have One on Me*... her 'early '70s California singer-songwriter album,' citing influences like Joni Mitchell's *For the Roses* and Graham Nash's *Songs for Beginners*."[^nyt] It has been suggested that this song bears resemblance to the 1977 Billy Joel song, "Scenes from an Italian Restaurant".
+
+[^nyt] : [Joanna Newsom, the Changeling](http://www.nytimes.com/2010/03/07/magazine/07Newsom-t.html?_r=1&pagewanted=all), Jody Rosen, New York Times, March 2010
 
 ## Religion ##
 

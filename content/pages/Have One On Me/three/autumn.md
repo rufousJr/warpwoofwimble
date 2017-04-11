@@ -1,6 +1,8 @@
 Title: Autumn
 Release: Have One On Me
 
+# Annotations #
+
 !!! lyrics ""
     > Friendly voices, dead and gone,  
     > singing, *Star of the country down*...
@@ -12,7 +14,7 @@ Release: Have One On Me
 [^rookie]: ["Stand Brave, Life-Liver: An interview with Joanna Newsom"](http://www.rookiemag.com/2015/10/joanna-newsom-interview/2/), Tavi Gevinson, *Rookie Magazine*, October 2015
 
  !!! lyrics ""
-    > -- when, out of the massing  
+    > &ndash; when, out of the massing  
     > that bodes and bides, in the cold west,  
     > flew a waxwing, who froze  
     > and died against my breast!

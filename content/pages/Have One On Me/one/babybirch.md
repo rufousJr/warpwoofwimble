@@ -12,26 +12,26 @@ Animals feature often in Newsom's songs, and one is led to wonder if the "dirty 
 ## Showbusiness ##
 
 !!! lyrics ""
-> Do you remember staring,  
-> up at the stars,  
-> so far away in their bulletproof cars?
+    > Do you remember staring,  
+    > up at the stars,  
+    > so far away in their bulletproof cars?
 
 The "bulletproof cars" reveal the presence of an earlier pun made from two definitions of 'star': a glowing point in the night sky; and a famous or talented entertainer. This juxtaposition, overtly introduced by these early lines, is slyly revisited when Newsom sings, "I see stars and I reel, again". Here, the primary sense is of a dizzy spell, but the word, 'stars', reminds the listener of the earlier lines and thereby encourages him to remember that a reel is both a type of folk dance dance and "a cylinder on which film, wire, thread, etc. can be wound" (OED) -- that is, one way of seeing Hollywood's stars. 
 
 ## Engine breaks ##
 
 !!! lyrics ""
-> We heard the rushing, slow intake  
-> of the dark, dark water,  
-> and the engine breaks,
+    > We heard the rushing, slow intake  
+    > of the dark, dark water,  
+    > and the engine breaks,
 
 Much ink has been spilled in debating the correct reading of these lines, especially whether or not "engine breaks" is a misspelling of "engine brakes". This theory requires the belief that the words refer to the technique of 'engine braking' used to slow heavy automobiles. However, "breaks" could simply be pauses, or intended as a contraction of the idiomatic phrase, "them's the breaks".
 
-## Children's rhymes ##
+## Children's rhymes and other songs ##
 
 !!! lyrics ""
-> *And, if I should die before I wake,*  
-> *will you keep an eye on Baby Birch?*
+    > *And, if I should die before I wake,*  
+    > *will you keep an eye on Baby Birch?*
 
 This is a borrowing from the children's prayer known as "Now I Lay Me Down to Sleep":
 
@@ -41,11 +41,11 @@ This is a borrowing from the children's prayer known as "Now I Lay Me Down to Sl
 > I pray the Lord my soul to take.
 
 !!! lyrics ""
-> told her, "wherever you go,  
-> little runaway bunny,  
-> I will find you."  
-> And then she ran,  
-> as they're liable to do.
+    > told her, "wherever you go,  
+    > little runaway bunny,  
+    > I will find you."  
+    > And then she ran,  
+    > as they're liable to do.
 
 *The Runaway Bunny* is a children's story book detailing the devotion of a mother rabbit to her offspring; the speech in the lines is a paraphrase of the mother's refrain.
 
@@ -54,7 +54,5 @@ This is a borrowing from the children's prayer known as "Now I Lay Me Down to Sl
 > "If you run away," said his mother, "I will run after you.  For you are my little bunny."
 
  The introduction of the of "blacksmith", "shepherd", "butcher-boy", and "barber" further evokes tropes of children's rhyme and fairytale (for example, the butcher, the baker and the candle-stick maker of "Rub-A-Dub-Dub"). With this in mind, the "goose" earlier in the song could be allied to Aesop's *Goose that Laid the Golden Eggs*.
-
-## Allusions to other songs ##
 
 On the other hand, the "butcher-boy" could be an appearance from the titular character of the traditional American folk song on the theme of the forsaken woman. In fact, the chord progression of this song is very similar to that of "The Butcher Boy".

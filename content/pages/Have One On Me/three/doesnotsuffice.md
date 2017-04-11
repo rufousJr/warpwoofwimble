@@ -1,7 +1,7 @@
 Title: Does Not Suffice
 Release: Have One On Me
 
-!!! epigraph ""
+<!--!!! epigraph ""
     > I oft have smiled to see the foolery  
     > Of some sweet youths, who seriously protest  
     > That love respects not actual luxury,  
@@ -16,6 +16,6 @@ Release: Have One On Me
     > Infinite lovely chatter of Bucks accent;  
     > Yet faced unbroken wires; stepped over, and went,  
     > A noble fool, faithful to his stripes -- and ended.
-    > <cite> from "The Silent One", <author>Ivor Gurney</author></cite>
+    > <cite> from "The Silent One", <author>Ivor Gurney</author></cite>-->
 
 See ["On A Good Day"]({filename}../two/onagoodday.md) for a brief comment Newsom made on this song.

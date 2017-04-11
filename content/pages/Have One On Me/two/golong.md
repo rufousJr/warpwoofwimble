@@ -1,10 +1,12 @@
 Title: Go Long
 Release: Have One On Me
 
+# Annotations #
+
 ## Bluebeard ##
 
 !!! lyrics ""
-    > Run away from home--  
+    > Run away from home --  
     > Your beard is still blue
 
 The song contains several allusions to the folk tale of Bluebeard, to the extent that it could be considered a retelling of the tale. This aspect of the song has been considered in great detail in a series of posts at Blessing All the Birds ([1][], [2][], [3][], [4][]).

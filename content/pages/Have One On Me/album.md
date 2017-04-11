@@ -2,6 +2,12 @@ Title: Have One On Me (album)
 Release: Have One On Me
 Status: published
 
+!!! epigraph ""
+ > And yes, I do enjoy referring to this massive, sometimes-overwhelming set as HOOM; 
+ > it sounds like a supercomputer crossed with a loom crossed with a vacuum cleaner, 
+ > which, come to think of it, isn’t a halfway-bad description of Newsom’s brain.
+ > <footer><a href=http://www.nj.com/entertainment/music/index.ssf/2010/06/joanna_newsom_--_have_one_on_m.html>Review of *Have One On Me* by Tris McCall</a></footer>
+
 Contents:
 
 [TOC]
@@ -24,17 +30,11 @@ Songs:
      6. Occident
  + Disc three
      1. [Soft as Chalk]({filename}three/softaschalk.md)
-     2. [Esme]({filename}three/esme.md)
+     2. Esme
      3. [Autumn]({filename}three/autumn.md)
      4. [Ribbon Bows]({filename}three/ribbonbows.md)
      5. [Kingfisher]({filename}three/kingfisher.md)
      6. [Does Not Suffice]({filename}three/doesnotsuffice.md)
-
-!!! epigraph ""
- > And yes, I do enjoy referring to this massive, sometimes-overwhelming set as HOOM; 
- > it sounds like a supercomputer crossed with a loom crossed with a vacuum cleaner, 
- > which, come to think of it, isn’t a halfway-bad description of Newsom’s brain.
- > <footer><a href=http://www.nj.com/entertainment/music/index.ssf/2010/06/joanna_newsom_--_have_one_on_m.html>Review of *Have One On Me* by Tris McCall</a></footer>
 
 # Conception and Production #
 
@@ -46,15 +46,15 @@ Songs:
 
 > This record deals a lot with the idea of home and hometown. People have described me as being so informed by the nature and the magic of this place. I think on this album I'm exploring that -- I'm working through that idea.[^nyt]
 
-This aspect is most obvious from songs like ["Have One On Me"][], ["In California"][] and ["Autumn"][], but also from the production of the album -- recorded not only in Laurel Canyon, but also in a couple town's a stone's throw from Newsom's hometown of Nevada City.
+This aspect is most obvious from songs like
+["Have One On Me"]({filename}one/haveoneonme.md), 
+["In California"]({filename}two/incalifornia.md) 
+and ["Autumn"]({filename}three/autumn.md), 
+but also from the production of the album -- recorded not only in Laurel Canyon, but also in a couple town's a stone's throw from Newsom's hometown of Nevada City.
 
 *Have One On Me* is notoriously voluble, its three discs described variously by Newsom as "morning, noon, night" or "beginning, middle, end". She found this division particularly suited to the triple-LP format:
 
 > Somehow, when I began to think of it in a three-part form, it worked for me. Obviously, it's so much information, and the thing that I liked about the triple album shape is that it started to feel like three chapters or three acts in a play. [...] So [the LP]'s got three main arcs, and then each one is broken into sides. If you look at each side, the sets of three are all arranged differently. There is no set of three, side by side, that have the same instrumentation on them.[^utrad]
-
-["Have One On Me"] : {filename}one/haveoneonme.md
-["In California"] : {filename}two/incalifornia.md
-["Autumn"] : {filename}three/autumn.md
 
 [^amsong]: [Joanna Newsom: The Siren's Song](http://americansongwriter.com/2010/09/joanna-newsom-the-sirens-song/), *American Songwriter*, Evan Schlansky, Sep 2010
 
@@ -66,6 +66,12 @@ This aspect is most obvious from songs like ["Have One On Me"][], ["In Californi
 
 Newsom expounded on the album artwork during a wide-ranging interview conducted over email by Roy Harper for Bomb Magazine:
 
-> Certain aspects of physical appearance are mutable, boiling down to mere decisions, and, to the extent that those decisions operate as elements of an artistic project, I consider them valuable. All my three record covers depicted "me" in an allegorical setting -- embroidered, on the first album cover; painted, on the second; and then photographed on the third. In each case, there are factors relating to physical appearance that can be tempered to underscore the spirit of the album and the identity of its narrator. The photo on the cover of *Have One on Me* was modeled after typical Orientalist fantasy-figure iconography, like an odalisque or a Venus in Furs -- a sort of cartoonish amalgamation of feminine signifiers stylized to illustrate the Lacanian idea "Woman is a symptom of man." Annabel Mehran, the photographer, used black-and-white film that the artist Becca Mann later hand-tinted over with watercolors. The idea was to mock-up a shabby, 1920s Parisian studio with an absinthe-dulled lady posing on a divan in bits of old drapery fabric, and then paint over the resulting tableau into some idealized, Technicolor, hedonistic fantasy set. The specifically female, earthbound, corporeal, and decadent character in that album art reflects the character of those songs' narrator as well as the idea of feminine self-diminishment. That was a definite application of the idea of beauty.[^bomb]
+> Certain aspects of physical appearance are mutable, boiling down to mere decisions, and, to the extent that those decisions operate as elements of an artistic project, I consider them valuable.
+> 
+> All my three record covers depicted "me" in an allegorical setting -- embroidered, on the first album cover; painted, on the second; and then photographed on the third. In each case, there are factors relating to physical appearance that can be tempered to underscore the spirit of the album and the identity of its narrator.
+> 
+> The photo on the cover of *Have One on Me* was modeled after typical Orientalist fantasy-figure iconography, like an odalisque or a Venus in Furs -- a sort of cartoonish amalgamation of feminine signifiers stylized to illustrate the Lacanian idea "Woman is a symptom of man." Annabel Mehran, the photographer, used black-and-white film that the artist Becca Mann later hand-tinted over with watercolors. The idea was to mock-up a shabby, 1920s Parisian studio with an absinthe-dulled lady posing on a divan in bits of old drapery fabric, and then paint over the resulting tableau into some idealized, Technicolor, hedonistic fantasy set.
+> 
+> The specifically female, earthbound, corporeal, and decadent character in that album art reflects the character of those songs' narrator as well as the idea of feminine self-diminishment. That was a definite application of the idea of beauty.[^bomb]
 
 [^bomb]: [Joanna Newsom by Roy Harper](http://bombmagazine.org/article/5106/joanna-newsom), Roy Harper, *Bomb Magazine*, Summer 2011

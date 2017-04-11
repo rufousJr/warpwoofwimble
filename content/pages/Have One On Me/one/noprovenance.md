@@ -18,7 +18,7 @@ There are two possible references to fairytales in the song. The line "I have sl
 To me, this line evokes the haunting fairytale related in Keats' poem, ["La Belle Dame Sans Merci"](https://www.poetryfoundation.org/resources/learning/core-poems/detail/44475), whose eleventh stanza reads:
 
 > I saw their starved lips in the gloam,  
-> With horrid warning gaped wide,  
+> With horrid warning gapèd wide,  
 > And I awoke and found me here,  
 > On the cold hill’s side. 
 

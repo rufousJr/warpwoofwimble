@@ -1,7 +1,13 @@
 Title: Ribbon Bows
 Release: Have One On Me
 
-shrine of the thousand arms -- Guanyin ?
+# Annotations #
+
+!!! lyrics ""
+    > At the Shrine of the Thousand Arms,  
+    > I lowered my eyes to sip.
+
+It has been suggested that the "Shrine of the Thousand Arms" is devoted to the Buddhist figure of Guanyin.
 
 The narrator seems to compare herself to a dog, and Newsom makes much of the opportunity for canine puns, such as 'hangdog' and the symmetry of 'dog' against 'god'. Additionally, while the "lagging, rising sap" is likely primarily meant to be falling behind (*ie.* lagging), the process of insulating tanks and pipes is also called 'lagging'.
 

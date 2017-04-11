@@ -1,6 +1,8 @@
 Title: Jackrabbits
 Release: Have One On Me
 
+# Annotations #
+
 The final verse casts a Biblical pall over the song: 'Matthew' clearly means the gospel according to Matthew, while figs are a common Biblical symbol (primordially in the Eden story). As for the "verse" that "spoke to" Newsom, it is unclear which verse, if any, is paraphrased in the proceeding lines. The book of Matthew often mentions the idea of a fiery Hell, and also the idea of giving up ones earthly riches for freedom in the afterlife (eg. 29:24, "It is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God").
 
 However, the idea of personal freedom is perhaps better covered by 11:25-30:
