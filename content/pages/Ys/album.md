@@ -17,9 +17,9 @@ Song annotations:
 
 # Introduction #
 
-The definitive overview of this album is Arthur magazine's piece, ["Nearer the Heart of Things": Erik Davis profiles Joanna Newsom][https://arthurmag.com/2006/12/23/nearer-the-heart-of-things-erik-davis-on-joanna-newsom-from-arthur-no-25winter-02006/]. "[Newsom] spoke at length with *Arthur* partly because, besides the fact that she actually reads the rag, she hopes to lay certain matters to rest and be done with them." That said, if you want even more after reading that piece, some of the interviews excerpted below might be of interest.
+The definitive overview of this album is Arthur magazine's piece, ["Nearer the Heart of Things": Erik Davis profiles Joanna Newsom](https://arthurmag.com/2006/12/23/nearer-the-heart-of-things-erik-davis-on-joanna-newsom-from-arthur-no-25winter-02006/). "[Newsom] spoke at length with *Arthur* partly because, besides the fact that she actually reads the rag, she hopes to lay certain matters to rest and be done with them." That said, if you want even more after reading that piece, some of the interviews excerpted below might be of interest.
 
-Newsom has continued to be asked (and answer) interview questions about this album over the years. Looking back on her collaboration with Van Dyke Parks ten years later, she said
+Over the years, Newsom has continued to answer interview questions about this album. Looking back on her collaboration with Van Dyke Parks ten years later, she said
 
 >  [Parks] has a record called *Song Cycle* [that] he wrote when he was twenty-two, and wrote it in part to cope with some sorrow and loss -- and I wrote [*Ys*] under similar circumstances at the same age. [...] As the years have passed, I've realised what a unique working arrangement I had with Van Dyke. I don't think it's his normal working arrangement. I don't know why he decided to consent to my particular way of working. I just gave a lot of notes -- months and months and months of notes, back and forth and back and forth.[^eggers]
 
