@@ -17,7 +17,9 @@ Song annotations:
 
 # Introduction #
 
-The definitive overview of this album is Arthur magazine's piece, ["Nearer the Heart of Things": Erik Davis profiles Joanna Newsom][arthur]. "[Newsom] spoke at length with *Arthur* partly because, besides the fact that she actually reads the rag, she hopes to lay certain matters to rest and be done with them." That said, if you want even more after reading that piece, some of the interviews excerpted below might be of interest. Newsom has continued to be asked (and answer) interview questions about this album over the years. Looking back on her collaboration with Van Dyke Parks ten years later, she said
+The definitive overview of this album is Arthur magazine's piece, ["Nearer the Heart of Things": Erik Davis profiles Joanna Newsom][https://arthurmag.com/2006/12/23/nearer-the-heart-of-things-erik-davis-on-joanna-newsom-from-arthur-no-25winter-02006/]. "[Newsom] spoke at length with *Arthur* partly because, besides the fact that she actually reads the rag, she hopes to lay certain matters to rest and be done with them." That said, if you want even more after reading that piece, some of the interviews excerpted below might be of interest.
+
+Newsom has continued to be asked (and answer) interview questions about this album over the years. Looking back on her collaboration with Van Dyke Parks ten years later, she said
 
 >  [Parks] has a record called *Song Cycle* [that] he wrote when he was twenty-two, and wrote it in part to cope with some sorrow and loss -- and I wrote [*Ys*] under similar circumstances at the same age. [...] As the years have passed, I've realised what a unique working arrangement I had with Van Dyke. I don't think it's his normal working arrangement. I don't know why he decided to consent to my particular way of working. I just gave a lot of notes -- months and months and months of notes, back and forth and back and forth.[^eggers]
 
@@ -27,7 +29,17 @@ The definitive overview of this album is Arthur magazine's piece, ["Nearer the H
 
 Newsom gave a summing-up of what she thought of as the themes of the album, saying, "I think of it as a very pastoral record, really. It's farmlands and harvests and livestock. It's an album about loss, but much of the imagery has to do with fecundity."[^guardian]
 
-[^guardian]: [The Guardian, October 2006][guardian]
+[^guardian]: [The Guardian, October 2006](https://www.theguardian.com/music/2006/oct/15/folk)
+
+# Conception #
+
+Interviewed at the time of the release of *Have One On Me*, Newsom was asked about the process of writing *Ys*.
+
+>**You’ve said for Ys, you pored over every syllable before it was finished.**
+>
+>Well, I was in a mathematical frame of mind, I think. Not real math, but intuitive math – a kind of idle, self-soothing impulse, like making sure all three Dixie cups have the same number of dry pinto beans in them. That impulse didn’t govern the meanings of the songs, or the spirit of the record, but somehow I needed it – I needed that syntactic hyper-vigilance, to act as a mill through which all those songs had to pass in order for the record to find itself.[^ussongwriter]
+
+[^ussongwriter]: ["Joanna Newsom: The Siren's Song", American Songwriter, September 2010](http://americansongwriter.com/2010/09/joanna-newsom-the-sirens-song/)
 
 # Influences #
 
@@ -37,7 +49,7 @@ On the subject of general influences for the album, Newsom said:
 
 The annotations for individual songs examine how they were influenced by Faulkner and another Newsom favourite, Vladimir Nabokov.
 
-[^1]: [Stomp and Stammer, November 2006][stompstammer]
+[^1]: [Stomp and Stammer, November 2006](https://web.archive.org/web/20061112125557/http://www.stompandstammer.com/index.php?option=com_content&task=view&id=669&Itemid=1)
 
 ## Title ##
 
@@ -45,8 +57,8 @@ The title is pronounced like "ease". It comes from a myth (retold in the [Arthur
 
 > [The title] was the last thing that I chose, after all the songs and the cover art were finished. So none of the songs directly allude to that myth. But the main themes that emerge out of that myth are really close to the themes on the record --- mortality, decadence, an excess of water, isolation, rebirth.[^pitchfork]
 
-[^wire]: [The Wire #273, November 2006][wire]
-[^pitchfork]: [Pitchfork, November 2006][pitchfork]
+[^wire]: [The Wire #273, November 2006](http://www.thewire.co.uk/in-writing/interviews/joanna-newsom.1)
+[^pitchfork]: [Pitchfork, November 2006](http://pitchfork.com/features/interview/6488-joanna-newsom/)
 
 # Artwork #
 
@@ -58,11 +70,4 @@ The original painting now resides in the permanent collection of Newsom and her 
 
 The design is credited in the liner notes to Rich and Andrea Good (Rich being Newsom's former bandmate in The Pleased). The creator of the etchings in the liner notes I suppose is one of them too, though they could as easily be from some old book. (Please contact me if you know!)
 
-[^vier-blog]: [Joanna Newsom Portrait enters permenant collection][vier-blog]
-
-[arthur]: https://arthurmag.com/2006/12/23/nearer-the-heart-of-things-erik-davis-on-joanna-newsom-from-arthur-no-25winter-02006/
-[vier-blog]: http://bavierling.blogspot.co.uk/2015/02/joanna-newsom-portrait-enters-permenant.html
-[stompstammer]: https://web.archive.org/web/20061112125557/http://www.stompandstammer.com/index.php?option=com_content&task=view&id=669&Itemid=1
-[wire]: http://www.thewire.co.uk/in-writing/interviews/joanna-newsom.1
-[pitchfork]: http://pitchfork.com/features/interview/6488-joanna-newsom/
-[guardian]: https://www.theguardian.com/music/2006/oct/15/folk
+[^vier-blog]: [Joanna Newsom Portrait enters permenant collection](http://bavierling.blogspot.co.uk/2015/02/joanna-newsom-portrait-enters-permenant.html)
