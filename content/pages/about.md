@@ -12,9 +12,10 @@ The song annotations are intended to be conservative, commonly-cited interpretat
 
 # Me #
 
-Unless otherwise stated, all content on this website is written by the owner of the below email address.
+Unless otherwise stated, all content on this website is written by the owner of the below email address. All feedback, corrections, criticism and correspondence are welcomed by email. For those familiar with GitHub, corrections are welcomed through the issue tracker, or even through a pull request for small changes.
 
-Email: <thenightjarkid@gmail.com>
+Email: <thenightjarkid@gmail.com>  
+GitHub issue tracker: [rufousJr/warpwoofwimble/issues](https://github.com/rufousJr/warpwoofwimble/issues)
 
 # Colophon #
 

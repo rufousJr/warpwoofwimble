@@ -1,9 +1,15 @@
 Title: Monkey & Bear
 Release: Ys
 
-> I think the idea of performance in this song has more to do with the relationship between the monkey and the bear than anything else, like conditional love - the monkey's saying, if you just dance a little bit longer and if you keep those chains on, and if you keep that costume on, then under those conditions then I'll continue to love you. So that's much more like a smaller comment I'm making than any comment on the idea of being a musician.[^wire]
+Newsom talked about this song at length in an interview with Wire Magazine:
 
-[^wire]: [The Wire #273, November 2006][wire]
+>  In a way, the song is a surreal narrative that goes away from the story of the record ... I think the idea of performance in this song has more to do with the relationship between the monkey and the bear than anything else, like conditional love - the monkey's saying, if you just dance a little bit longer and if you keep those chains on, and if you keep that costume on, then under those conditions then I'll continue to love you. [^wire]
+
+She has described the song as a "decadent journey" of "blind fumbling".[^berlinohsix]
+
+[^wire]: [The Wire #273, November 2006](http://www.thewire.co.uk/in-writing/interviews/joanna-newsom.1)
+
+[^berlinohsix]: [Joanna Newsom, Berlin 2006]({filename}../interviews/berlinohsix.md)
 
 # Annotations #
 
@@ -38,6 +44,4 @@ The phrase "a land of milk and honey" comes from *Exodus 33:3*, as a description
 	> And we can't have none of *that*!  
 	> Move along, Bear; there, there; that's that."
 
-This verse makes a pun of the English idiom, "the pot calling the kettle black". Additionally, in ornithology, the word "kettle" signifies a group of birds circling in flight.
-
-[wire]: http://www.thewire.co.uk/in-writing/interviews/joanna-newsom.1
+This verse makes a pun of the English idiom, "the pot calling the kettle black". Additionally, in ornithology, the word "kettle" signifies a group of birds circling in flight (see ["Make Hay"](){filename}.../Divers/makehay.md).

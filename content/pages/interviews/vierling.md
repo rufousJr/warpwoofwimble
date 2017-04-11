@@ -1,7 +1,7 @@
 Title: Interview with Benjamin Vierling
 Status: hidden
 
-*This is a copy of a piece hosted on the old Milky Moon forums. It is still recoverable on archive.org, at [this URL][mm-vierling].*
+*This is a copy of a piece hosted on the old Milky Moon forums. It is still recoverable on archive.org, at [this URL](http://web.archive.org/web/20070629202800/http://www.fromamouth.com/milkymoon/specials/ysart/).*
 
 ***
 
@@ -26,5 +26,3 @@ The original painting is just shy of life-size, measuring 28" x 34" (71 x 86 cen
 At this point there are no specific plans to do additional artwork for singles etc... although certainly anything is possible. I currently have a number of personal projects and private commissions that I am working on, some of which may eventually be viewed on-line. My web-site is actually in the process of being renovated, the current pages being woefully out of date! The new presentation will feature much of the work I have been doing the past few years, including the portrait of Joanna. A limited edition of archival quality prints of the painting will also be available through my web-site --- sometime after the album is released in November.
 
 It was a great honor for me to be a part of this project, as it incorporates the efforts of so many talented and outstanding people. Joanna has woven a truly enchanting spell. My hope is that my visual contribution assists in lettings ones imagination be lured into the realms conjured by the music.
-
-[mm-vierling]: http://web.archive.org/web/20070629202800/http://www.fromamouth.com/milkymoon/specials/ysart/

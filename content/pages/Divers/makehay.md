@@ -13,6 +13,8 @@ The existence of this song was revealed around the time of the album's release b
 >
 > There's a lyrical remnant. A lot of the record has this binary thing, where ideas are set up in opposition to each other and create a tension. There's a key lyric, in the last song on the record, "Time, as a Symptom," a lyric, "I was wrong, it pains me to say I was wrong. / Love is not a symptom of time, time is a symptom of love." That's in reference to the establishing claim that was made in the song that was cut. But it seemed unnecessary because it was all in there already, it was redundant in a way.[^rookie]
 
+[^rookie]:[Rookie Magazine, issue 50 (2015)][http://www.rookiemag.com/2015/10/joanna-newsom-interview/]
+
 # Annotations #
 
 !!! lyrics ""
@@ -39,7 +41,7 @@ While unrelated at first glance, the final three words quoted here are all ornit
 	> Where wind made the dust  
 	> And sin made the snake,  
 	> ...
-	> "Where Adam made ribs
+	> "Where Adam made ribs  
 	> And cattle make steak."
 
 There are two clear references in the song to the biblical story of the Creation (Genesis 1-3). Additionally, the final line of the song, "We sow and we reap, again," is a paraphrase of the famous pronouncement from St. Paul's Letter to the Galatians, "Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap." (Galatians 6:7)

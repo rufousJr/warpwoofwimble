@@ -11,12 +11,16 @@ Release: Divers
 	> at one end and unrolling at the other  
 	> <footer>Margaret Atwood, from "1837 War in Retrospect", <cite>The Journals of Susanna Moodie</cite></footer>
 
-"Sapokanikan" was described by Newsom as concerning "the roles that documentation plays in our concept of cultural permanence or cultural impermanence".[^stranger] On that subject, she has also said, "No matter what the lyrical content of my songs is, it’s a losing battle at this point to try to make albums unanchored by the times in which they’re conceived. My songs might not be littered with references to Twitter and Angry Birds, but they still fix me as irremovably in this decade as Daniel Day-Lewis’s hilarious shirt in Last of the Mohicans fixes him in 1992 and not the 1750s. I don’t aspire to write in a voice that is outside time; I just write about what is interesting and moving to me."[^bomb]
+"Sapokanikan" was described by Newsom as concerning "the roles that documentation plays in our concept of cultural permanence or cultural impermanence".[^stranger] As a gloss of the title, she said, "It means 'tobacco field' and it was the name for the piece of land that became Washington Square Park, which is in the West Village."[^eggers]
+
+> No matter what the lyrical content of my songs is, it’s a losing battle at this point to try to make albums unanchored by the times in which they’re conceived. My songs might not be littered with references to Twitter and Angry Birds, but they still fix me as irremovably in this decade as Daniel Day-Lewis’s hilarious shirt in *Last of the Mohicans* fixes him in 1992 and not the 1750s. I don’t aspire to write in a voice that is outside time; I just write about what is interesting and moving to me.[^bomb]
 
 This song has a notoriously large number of historical references within. In an interview around the time of the release of the music video, Newsom said, "...only hours after the video was out...a lot of the material elements of the song --- meaning the things that could be deciphered or could be researched --- had been thoroughly found at that point. As of the last time I saw it, there were still a few little things that hadn't been figured out, so I was like, 'Haha! You haven't got that yet!' But they had gotten so much of it."[^stereogum]
 
 Newsom apologises to several of the referenced people "for liberties taken" in the liner notes.
 
+[^eggers]: [Joanna Newsom: In Conversation With Dave Eggers]({filename}../interviews/eggersnourse.md)
+[^bomb]:[Bomb: Artists in Conversation -- Joanna Newsom by Roy Harper](http://bombmagazine.org/article/5106/joanna-newsom)
 [^stranger]:[The Stranger, March 2015][stranger]
 [^bomb]:["Joanna Newsom by Roy Harper", Bomb Magazine 116, Summer 2011][bombmagazine]
 [^stereogum]:[Stereogum, October 2015][stereogum]

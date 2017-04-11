@@ -19,6 +19,12 @@ Song annotations:
 
 The definitive overview of this album is Arthur magazine's piece, ["Nearer the Heart of Things": Erik Davis profiles Joanna Newsom][https://arthurmag.com/2006/12/23/nearer-the-heart-of-things-erik-davis-on-joanna-newsom-from-arthur-no-25winter-02006/]. "[Newsom] spoke at length with *Arthur* partly because, besides the fact that she actually reads the rag, she hopes to lay certain matters to rest and be done with them." That said, if you want even more after reading that piece, some of the interviews excerpted below might be of interest.
 
+Newsom has continued to be asked (and answer) interview questions about this album over the years. Looking back on her collaboration with Van Dyke Parks ten years later, she said
+
+>  [Parks] has a record called *Song Cycle* [that] he wrote when he was twenty-two, and wrote it in part to cope with some sorrow and loss -- and I wrote [*Ys*] under similar circumstances at the same age. [...] As the years have passed, I've realised what a unique working arrangement I had with Van Dyke. I don't think it's his normal working arrangement. I don't know why he decided to consent to my particular way of working. I just gave a lot of notes -- months and months and months of notes, back and forth and back and forth.[^eggers]
+
+[^eggers]: [Joanna Newsom: In Conversation With Dave Eggers]({filename}../interviews/eggersnourse.md)
+
 # Themes #
 
 Newsom gave a summing-up of what she thought of as the themes of the album, saying, "I think of it as a very pastoral record, really. It's farmlands and harvests and livestock. It's an album about loss, but much of the imagery has to do with fecundity."[^guardian]
@@ -56,7 +62,7 @@ The title is pronounced like "ease". It comes from a myth (retold in the [Arthur
 
 # Artwork #
 
-The cover art was composed with egg-tempera and oil by Benjamin Vierling. The Milkymoon fan forums published an [interview with Vierling]({filename}vierling.md), extracted here:
+The cover art was composed with egg-tempera and oil by Benjamin Vierling. The Milkymoon fan forums published an [interview with Vierling]({filename}../interviews/vierling.md), extracted here:
 
 > We worked together to arrange the composition of the painting, and her input was indispensable. I would have been unable to evoke such subtle complexity without her influence. She brought a lot of thematic influence to the image, and through her enthusiasm I felt compelled to challenge my abilities as a painter. To identify the symbolic meaning behind the imagery, one would have to ask Joanna herself. My goal as a painter is to invoke the spirit of a Thing - be it an object an animal or a human- through my rendering of it, and thus I am not a 'Symbolist' in the literal sense because I believe that the image should speak for itself. Any and all secrets are there for the finding. One need only to look to discover...
 
