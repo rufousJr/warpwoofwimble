@@ -36,11 +36,13 @@ Songs:
      5. [Kingfisher]({filename}three/kingfisher.md)
      6. [Does Not Suffice]({filename}three/doesnotsuffice.md)
 
-# Conception and Production #
+# Conception #
 
-> You’ve said there’s a loose theme to Have One On Me. If you could describe the story being told in a sentence, what would it be?
->
-> It would be the title of the record, in the imperative mood.[^amsong]
+Of the title of the record, Newsom said,
+
+> There was a tonal decision to choosing the title that has a relationship with the tone of the record. There is a directness to it and an earthiness to it -- it's something that's said in a bar! There is a decadence to the phrase, and a thread of that runs through the whole record, from decisions surrounding the arrangements to the visuals and the lyrics. Decadence is just like intense physicality, so that phrase underscored that quality of the record. [...] It also refers to a kind of self-sacrifice that is a theme in a lot of the songs.[^quietus]
+
+More flippantly, when asked to describe the 'story' of *Have One On Me* in a sentence, Newsom said, "It would be the title of the record, in the imperative mood."[^amsong] For more on the title, see the notes to the [title track]({filename}one/haveoneonme.md).
 
 *Have One On Me* is the album most influenced by Newsom's home state and by her upbringing. As Jody Rosen wrote in the New York Times, "She calls *Have One on Me*, which was released in late February, her 'early '70s California singer-songwriter album,' citing influences like Joni Mitchell's *For the Roses* and Graham Nash's *Songs for Beginners*."
 
@@ -52,11 +54,15 @@ This aspect is most obvious from songs like
 and ["Autumn"]({filename}three/autumn.md), 
 but also from the production of the album -- recorded not only in Laurel Canyon, but also in a couple town's a stone's throw from Newsom's hometown of Nevada City.
 
+[^quietus]: [A Vision of Decadence: Joanna Newsom on *Have One On Me*](http://thequietus.com/articles/04232-joanna-newsom-have-one-on-me-interview), Jude Rodgers, The Quietus, May 2010
+
+[^amsong]: [Joanna Newsom: The Siren's Song](http://americansongwriter.com/2010/09/joanna-newsom-the-sirens-song/), *American Songwriter*, Evan Schlansky, Sep 2010
+
+# Production #
+
 *Have One On Me* is notoriously voluble, its three discs described variously by Newsom as "morning, noon, night" or "beginning, middle, end". She found this division particularly suited to the triple-LP format:
 
 > Somehow, when I began to think of it in a three-part form, it worked for me. Obviously, it's so much information, and the thing that I liked about the triple album shape is that it started to feel like three chapters or three acts in a play. [...] So [the LP]'s got three main arcs, and then each one is broken into sides. If you look at each side, the sets of three are all arranged differently. There is no set of three, side by side, that have the same instrumentation on them.[^utrad]
-
-[^amsong]: [Joanna Newsom: The Siren's Song](http://americansongwriter.com/2010/09/joanna-newsom-the-sirens-song/), *American Songwriter*, Evan Schlansky, Sep 2010
 
 [^nyt]: [Joanna Newsom, the Changeling](http://www.nytimes.com/2010/03/07/magazine/07Newsom-t.html?pagewanted=all), *The New York Times*, Jody Rosen, March 2010
 

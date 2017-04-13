@@ -23,7 +23,7 @@ In fact, the city of Grass Valley, where Newsom was born (and indeed is the loca
 
 [^bio]: [Montez's entry](http://adb.anu.edu.au/biography/montez-lola-4226) in the Australian Dictionary of Biography is a good starting point
 
-[^arthur] : [Forty-Six Strings and Some Truths](https://arthurmag.com/2010/01/28/forty-six-strings-and-some-truths-a-conversation-with-joanna-newsom-2004/), Arthur Magazine No. 10, April 2004
+[^arthur]: [Forty-Six Strings and Some Truths](https://arthurmag.com/2010/01/28/forty-six-strings-and-some-truths-a-conversation-with-joanna-newsom-2004/), Arthur Magazine No. 10, April 2004
 
 ## As title track ##
 
@@ -42,7 +42,7 @@ Newsom expressed some thoughts on the song's title and its position as the title
 
 Jody Rosen, for the *New York Times*, wrote, "[Newsom] calls *Have One on Me*... her 'early '70s California singer-songwriter album,' citing influences like Joni Mitchell's *For the Roses* and Graham Nash's *Songs for Beginners*."[^nyt] It has been suggested that this song bears resemblance to the 1977 Billy Joel song, "Scenes from an Italian Restaurant".
 
-[^nyt] : [Joanna Newsom, the Changeling](http://www.nytimes.com/2010/03/07/magazine/07Newsom-t.html?_r=1&pagewanted=all), Jody Rosen, New York Times, March 2010
+[^nyt]: [Joanna Newsom, the Changeling](http://www.nytimes.com/2010/03/07/magazine/07Newsom-t.html?_r=1&pagewanted=all), Jody Rosen, New York Times, March 2010
 
 ## Religion ##
 

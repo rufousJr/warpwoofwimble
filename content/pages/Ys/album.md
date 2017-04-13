@@ -33,11 +33,13 @@ Newsom gave a summing-up of what she thought of as the themes of the album, sayi
 
 # Conception #
 
-Interviewed at the time of the release of *Have One On Me*, Newsom was asked about the process of writing *Ys*.
+Newsom considered the production of the album to be "very formalised", a quality which was "a ballast to a lot of the brutal or unhinged emotional material that I was working with."[^quietus]
 
->**You’ve said for Ys, you pored over every syllable before it was finished.**
+>**You've said for *Ys*, you pored over every syllable before it was finished.**
 >
->Well, I was in a mathematical frame of mind, I think. Not real math, but intuitive math – a kind of idle, self-soothing impulse, like making sure all three Dixie cups have the same number of dry pinto beans in them. That impulse didn’t govern the meanings of the songs, or the spirit of the record, but somehow I needed it – I needed that syntactic hyper-vigilance, to act as a mill through which all those songs had to pass in order for the record to find itself.[^ussongwriter]
+>Well, I was in a mathematical frame of mind, I think. Not real math, but intuitive math -- a kind of idle, self-soothing impulse, like making sure all three Dixie cups have the same number of dry pinto beans in them. That impulse didn't govern the meanings of the songs, or the spirit of the record, but somehow I needed it -- I needed that syntactic hyper-vigilance, to act as a mill through which all those songs had to pass in order for the record to find itself.[^ussongwriter]
+
+[^quietus]: [A Vision of Decadence: Joanna Newsom on *Have One On Me*](http://thequietus.com/articles/04232-joanna-newsom-have-one-on-me-interview), Jude Rodgers, The Quietus, May 2010
 
 [^ussongwriter]: ["Joanna Newsom: The Siren's Song", American Songwriter, September 2010](http://americansongwriter.com/2010/09/joanna-newsom-the-sirens-song/)
 
