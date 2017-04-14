@@ -57,13 +57,13 @@ The boys keep quiet, for fear of exposing themselves.
     > Then oh, how soothing is the fa fa fa    
     > And the do, re, mi, sol, la!  
     > 
-    > <cite>'Crows In The Garden', <author>Traditional</author></cite>
+    > <footer>'Crows In The Garden', <author>Traditional</author></footer>
 
 !!! lyrics ""
     > This is an old song, these are old blues.  
     > And this is not my tune, but it’s mine to use. 
     >  
-    > <cite>'Sadie', <author>Joanna Newsom</author></cite>
+    > <footer>'Sadie', <author>Joanna Newsom</author></footer>
 
 The little house -- a park-keeper's lodge -- stands at the Lancaster Gate entrance of Hyde Park. It's a Gothic-revival charm of pointed gables and sugary stone twists and leaded windowpanes. We are moving towards it dreamily in the hot late-summer afternoon. It's no wonder that the girl in the thrift-store prairie princess dress and high-heeled brown leather dancing shoes is drawn to it. It's the house an observant songwriter/harpist could surely live in: with the rolling park and squirrels and fountains on the one side, the busy city on the other side, and (no doubt) myriad little rooms and low lintels and old wooden cabinets on the inside.
 
@@ -105,7 +105,7 @@ But what happens when the hipsters no longer believe in unicorns? Will they just
 "If there is any commonality, it is the idea of self-containedness in the music, so it seems contradictory to make a movement out of it," she says. "I feel no affinity with a lot of the music that's being lumped in with this movement. With Devendra, it's hard for me to separate
 whether I feel close to him musically or just because we've been friends since before either of us was playing music. I'm not shaky on what my sound is. I know it may change over the years, but I know what I'm trying to do. And I can't necessarily lump my sound under a particular label."
 
-### Knitting needles and harp s###
+### Knitting needles and harps ###
 
 We should not try to categorise Newsom whatsoever, because her music is disconcertingly strange yet as familiar as a museum or a family photograph.
 
