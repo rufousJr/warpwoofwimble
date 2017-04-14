@@ -5,7 +5,7 @@ Slug: interviews
 
 # Key interviews #
 
-There are many interviews and profiles quoted in the 'music' section of this site, but a few of them are well worth reading completely in their own right as they contain a lot of interesting material not necessarily related to a particular album or era.
+There are a great number of published interviews with Newsom, which only increased in frequency as her career progressed; the four interviews below represent what I consider to be the ones of most interest to a scholar of Newsom's work, in that they focus on her artistic philosophy and formative experiences and feature many original questions.
 
 +   ["Outer Child", East Bay Express, 2003][eastbayexpress]
 
@@ -17,7 +17,7 @@ There are many interviews and profiles quoted in the 'music' section of this sit
 	
 +   ["Joanna Newsom by Roy Harper", Bomb Magazine 116, Summer 2011][bombmagazine]
     
-	The quality of both the questions and answers are excellent in this interview -- the questions, because they are asked by fellow songwriter Roy Harper; the answers, because they were told by email to a magazine that is more concerned with artistic technique than some more gossipy music magazines. There are many interesting insights here into Newsom's conception of the songwriting process, her relationship with Drag City, and her position on the album. You'll probably learn a bit about Harper from reading it, too!
+	The quality of both the questions and answers are excellent in this interview -- the questions, because they are asked by fellow songwriter Roy Harper; the answers, because they were told by email to a magazine that is more concerned with artistic technique than some more celebrity-focussed music magazines. There are many interesting insights here into Newsom's conception of the songwriting process, her relationship with Drag City, and her views on the album *qua* album. You'll probably learn a bit about Harper from reading it, too!
 
 +   ["Joanna Newsom: Persistence of Vision", Under the Radar 31, Spring 2010][undertheradar]
 

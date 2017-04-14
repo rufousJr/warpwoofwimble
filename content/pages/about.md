@@ -2,7 +2,7 @@ Title: About
 URL: about
 save_as: about/index.html
 
-This site is written as a reference for those studying the works of Joanna Newsom.
+This site is written as a reference for those studying the musical works of Joanna Newsom. Its intention is to collate all interviews with Newsom and with other people involved in her work; to provide "in her own words" introductions to her songs; and to point out allusions and conceits in her songs.
 
 # Content #
 
