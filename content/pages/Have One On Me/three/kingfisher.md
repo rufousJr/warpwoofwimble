@@ -8,6 +8,11 @@ According to Newsom, this song was one of the first to be written after *Ys*.[^s
 # Annotations #
 
 !!! lyrics ""
+    > It was not on principal.
+
+This is either a spelling mistake or confusion of, or a pun on, the English construction, 'on principle', meaning, "because of your beliefs about what is right and wrong." (OED)
+
+!!! lyrics ""
     > Blows rained upon the one you loved,    
     > and, thought you were only sparring,  
     > there's blood on the eye.  
