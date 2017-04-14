@@ -72,7 +72,9 @@ but also from the production of the album -- recorded not only in Laurel Canyon,
 
 Newsom expounded on the album artwork during a wide-ranging interview conducted over email by Roy Harper for Bomb Magazine:
 
-> Certain aspects of physical appearance are mutable, boiling down to mere decisions, and, to the extent that those decisions operate as elements of an artistic project, I consider them valuable.
+> **How much of a part do you think your personal beauty plays in your vision of life?**
+>
+> [...] Certain aspects of physical appearance are mutable, boiling down to mere decisions, and, to the extent that those decisions operate as elements of an artistic project, I consider them valuable.
 > 
 > All my three record covers depicted "me" in an allegorical setting -- embroidered, on the first album cover; painted, on the second; and then photographed on the third. In each case, there are factors relating to physical appearance that can be tempered to underscore the spirit of the album and the identity of its narrator.
 > 
