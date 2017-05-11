@@ -90,7 +90,7 @@ The zooming-out from Earth conjured at the end of "My Heart Alive" (and the begi
 	> Westbound and rolling  
 	> Taking refuge in the roads
 
-This flight fulfills at last the desire, first expressed in "Anecdotes", to go "where where the dew won't dry / [...] where the light won't bend." She is at lofty heights, in the perfect place for the philosophising heard throughout the final two tracks. Like Mitchell says in her concluding song: "And it made most people nervous / They just didn't want to know / What I was seeing in the refuge of the roads."[^8]
+This flight fulfills at last the desire, first expressed in "Anecdotes", to go "where where the dew won't dry / [...] where the light won't bend." She is at lofty heights, in the perfect place for the philosophising heard throughout the final two tracks. Like Mitchell says in her concluding song: "And it made most people nervous / They just didn't want to know / What I was seeing in the refuge of the roads."
 
 And like that, I think we see clearly how beautifully the themes of each song on *Divers* dovetail. Look at the questions posed in "The Things I Say": "What happened to the man you were[...]? Did he die, or does that man endure, somewhere far away?" By the ending of the album, Newsom is that man: as flight attendant, she plunges to her death; yet she stands brave, and holds on through *Divers*' freewheeling finale, until the cycle begins again.
 
@@ -100,14 +100,9 @@ And like that, I think we see clearly how beautifully the themes of each song on
 [batb-waltz]: http://allthebirds.tumblr.com/post/142261145623/lowlands-away-and-waltz-of-the-101st
 
 [Hejira]: http://jonimitchell.com/music/album.cfm?id=10
-
 [Amelia]: http://jonimitchell.com/music/song.cfm?id=118
-
 [Refuge of the Roads]: http://jonimitchell.com/music/song.cfm?id=7
-
 [Blue Motel Room]: http://jonimitchell.com/music/song.cfm?id=68
-
-
 
 [^9]: This meaning comes from the word's primary definition: "The flight of Muhammad from Mecca to Medina in 622 A.D."
 
